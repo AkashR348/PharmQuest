@@ -1,0 +1,7 @@
+{
+  "name": "PharmQuest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
