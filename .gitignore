@@ -30,3 +30,24 @@ npm-debug.log*
 /platforms
 /plugins
 /www
+
+# Environment files
+.env
+.env.*
+
+# npm cache
+.npm/
+
+# macOS system files
+.AppleDouble
+.LSOverride
+
+# Yarn
+.yarn*
+yarn.lock
+
+# Misc
+*.local
+*.bak
+*.orig
+*.rej

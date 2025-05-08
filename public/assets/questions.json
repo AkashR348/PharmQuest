@@ -1,0 +1,2733 @@
+[
+    {
+      "id": "drug-001",
+      "category": "drugNames",
+      "difficulty": "hard",
+      "prompt": "What is the generic name for Lipitor?",
+      "choices": [
+        "Lorazepam",
+        "Metformin",
+        "Atorvastatin",
+        "Gabapentin"
+      ],
+      "answer": "Atorvastatin"
+    },
+    {
+      "id": "drug-002",
+      "category": "drugNames",
+      "difficulty": "hard",
+      "prompt": "What is the generic name for Zestril?",
+      "choices": [
+        "Fenofibrate",
+        "Hydrochlorothiazide",
+        "Levothyroxine",
+        "Lisinopril"
+      ],
+      "answer": "Lisinopril"
+    },
+    {
+      "id": "drug-003",
+      "category": "drugNames",
+      "difficulty": "hard",
+      "prompt": "What is the generic name for Glucophage?",
+      "choices": [
+        "Simvastatin",
+        "Lisinopril",
+        "Metformin",
+        "Amlodipine"
+      ],
+      "answer": "Metformin"
+    },
+    {
+      "id": "drug-004",
+      "category": "drugNames",
+      "difficulty": "hard",
+      "prompt": "What is the generic name for Norvasc?",
+      "choices": [
+        "Pantoprazole",
+        "Ethinyl Estradiol/Norgestimate",
+        "Amlodipine",
+        "Hydroxyzine"
+      ],
+      "answer": "Amlodipine"
+    },
+    {
+      "id": "drug-005",
+      "category": "drugNames",
+      "difficulty": "hard",
+      "prompt": "What is the generic name for Prilosec?",
+      "choices": [
+        "Omeprazole",
+        "Atorvastatin",
+        "Fluoxetine",
+        "Isosorbide Dinitrate"
+      ],
+      "answer": "Omeprazole"
+    },
+    {
+      "id": "drug-006",
+      "category": "drugNames",
+      "difficulty": "hard",
+      "prompt": "What is the generic name for Cozaar?",
+      "choices": [
+        "Fluoxetine",
+        "Losartan",
+        "Sertraline",
+        "Ibuprofen"
+      ],
+      "answer": "Losartan"
+    },
+    {
+      "id": "drug-007",
+      "category": "drugNames",
+      "difficulty": "hard",
+      "prompt": "What is the generic name for Zocor?",
+      "choices": [
+        "Simvastatin",
+        "Levothyroxine",
+        "Losartan",
+        "Metoprolol"
+      ],
+      "answer": "Simvastatin"
+    },
+    {
+      "id": "drug-008",
+      "category": "drugNames",
+      "difficulty": "hard",
+      "prompt": "What is the generic name for Synthroid?",
+      "choices": [
+        "Olmesartan",
+        "Ciprofloxacin",
+        "Metformin",
+        "Levothyroxine"
+      ],
+      "answer": "Levothyroxine"
+    },
+    {
+      "id": "drug-009",
+      "category": "drugNames",
+      "difficulty": "hard",
+      "prompt": "What is the generic name for Neurontin?",
+      "choices": [
+        "Ethinyl Estradiol/Norgestimate",
+        "Gabapentin",
+        "Lorazepam",
+        "Zolpidem"
+      ],
+      "answer": "Gabapentin"
+    },
+    {
+      "id": "drug-010",
+      "category": "drugNames",
+      "difficulty": "hard",
+      "prompt": "What is the generic name for Microzide?",
+      "choices": [
+        "Omeprazole",
+        "Hydrochlorothiazide",
+        "Metformin",
+        "Hydroxyzine"
+      ],
+      "answer": "Hydrochlorothiazide"
+    },
+    {
+      "id": "drug-011",
+      "category": "drugNames",
+      "difficulty": "hard",
+      "prompt": "What is the generic name for Zoloft?",
+      "choices": [
+        "Sertraline",
+        "Metoprolol",
+        "Prednisone",
+        "Simvastatin"
+      ],
+      "answer": "Sertraline"
+    },
+    {
+      "id": "drug-012",
+      "category": "drugNames",
+      "difficulty": "hard",
+      "prompt": "What is the generic name for Singulair?",
+      "choices": [
+        "Montelukast",
+        "Naproxen",
+        "Tamsulosin",
+        "Sertraline"
+      ],
+      "answer": "Montelukast"
+    },
+    {
+      "id": "drug-013",
+      "category": "drugNames",
+      "difficulty": "hard",
+      "prompt": "What is the generic name for Lasix?",
+      "choices": [
+        "Gemfibrozil",
+        "Paroxetine",
+        "Fenofibrate",
+        "Furosemide"
+      ],
+      "answer": "Furosemide"
+    },
+    {
+      "id": "drug-014",
+      "category": "drugNames",
+      "difficulty": "medium",
+      "prompt": "What is the generic name for Protonix?",
+      "choices": [
+        "Pantoprazole",
+        "Olmesartan",
+        "Warfarin",
+        "Clindamycin"
+      ],
+      "answer": "Pantoprazole"
+    },
+    {
+      "id": "drug-015",
+      "category": "drugNames",
+      "difficulty": "medium",
+      "prompt": "What is the generic name for Ventolin?",
+      "choices": [
+        "Albuterol",
+        "Gemfibrozil",
+        "Lorazepam",
+        "Fluoxetine"
+      ],
+      "answer": "Albuterol"
+    },
+    {
+      "id": "drug-016",
+      "category": "drugNames",
+      "difficulty": "medium",
+      "prompt": "What is the generic name for Deltasone?",
+      "choices": [
+        "Prednisone",
+        "Metformin",
+        "Amlodipine",
+        "Albuterol"
+      ],
+      "answer": "Prednisone"
+    },
+    {
+      "id": "drug-017",
+      "category": "drugNames",
+      "difficulty": "medium",
+      "prompt": "What is the generic name for Coumadin?",
+      "choices": [
+        "Estradiol",
+        "Omeprazole",
+        "Warfarin",
+        "Pantoprazole"
+      ],
+      "answer": "Warfarin"
+    },
+    {
+      "id": "drug-018",
+      "category": "drugNames",
+      "difficulty": "medium",
+      "prompt": "What is the generic name for Lexapro?",
+      "choices": [
+        "Paroxetine",
+        "Escitalopram",
+        "Ciprofloxacin",
+        "Atenolol"
+      ],
+      "answer": "Escitalopram"
+    },
+    {
+      "id": "drug-019",
+      "category": "drugNames",
+      "difficulty": "medium",
+      "prompt": "What is the generic name for Prozac?",
+      "choices": [
+        "Fluoxetine",
+        "Prednisone",
+        "Clindamycin",
+        "Ethinyl Estradiol/Norgestimate"
+      ],
+      "answer": "Fluoxetine"
+    },
+    {
+      "id": "drug-020",
+      "category": "drugNames",
+      "difficulty": "medium",
+      "prompt": "What is the generic name for Ambien?",
+      "choices": [
+        "Atenolol",
+        "Tamsulosin",
+        "Zolpidem",
+        "Isosorbide Dinitrate"
+      ],
+      "answer": "Zolpidem"
+    },
+    {
+      "id": "drug-021",
+      "category": "drugNames",
+      "difficulty": "medium",
+      "prompt": "What is the generic name for Ultram?",
+      "choices": [
+        "Levothyroxine",
+        "Tramadol",
+        "Amlodipine",
+        "Losartan"
+      ],
+      "answer": "Tramadol"
+    },
+    {
+      "id": "drug-022",
+      "category": "drugNames",
+      "difficulty": "medium",
+      "prompt": "What is the generic name for Plavix?",
+      "choices": [
+        "Oxycodone",
+        "Citalopram",
+        "Fenofibrate",
+        "Clopidogrel"
+      ],
+      "answer": "Clopidogrel"
+    },
+    {
+      "id": "drug-023",
+      "category": "drugNames",
+      "difficulty": "medium",
+      "prompt": "What is the generic name for Advil?",
+      "choices": [
+        "Oxycodone",
+        "Ibuprofen",
+        "Amoxicillin",
+        "Ciprofloxacin"
+      ],
+      "answer": "Ibuprofen"
+    },
+    {
+      "id": "drug-024",
+      "category": "drugNames",
+      "difficulty": "medium",
+      "prompt": "What is the generic name for Aleve?",
+      "choices": [
+        "Naproxen",
+        "Fenofibrate",
+        "Levothyroxine",
+        "Olmesartan"
+      ],
+      "answer": "Naproxen"
+    },
+    {
+      "id": "drug-025",
+      "category": "drugNames",
+      "difficulty": "medium",
+      "prompt": "What is the generic name for Flomax?",
+      "choices": [
+        "Fluoxetine",
+        "Tamsulosin",
+        "Citalopram",
+        "Levothyroxine"
+      ],
+      "answer": "Tamsulosin"
+    },
+    {
+      "id": "drug-026",
+      "category": "drugNames",
+      "difficulty": "medium",
+      "prompt": "What is the generic name for Lopressor?",
+      "choices": [
+        "Azithromycin",
+        "Metoprolol",
+        "Warfarin",
+        "Olmesartan"
+      ],
+      "answer": "Metoprolol"
+    },
+    {
+      "id": "drug-027",
+      "category": "drugNames",
+      "difficulty": "easy",
+      "prompt": "What is the generic name for Tenormin?",
+      "choices": [
+        "Zolpidem",
+        "Azithromycin",
+        "Atenolol",
+        "Lorazepam"
+      ],
+      "answer": "Atenolol"
+    },
+    {
+      "id": "drug-028",
+      "category": "drugNames",
+      "difficulty": "easy",
+      "prompt": "What is the generic name for Coreg?",
+      "choices": [
+        "Amoxicillin",
+        "Sertraline",
+        "Clindamycin",
+        "Carvedilol"
+      ],
+      "answer": "Carvedilol"
+    },
+    {
+      "id": "drug-029",
+      "category": "drugNames",
+      "difficulty": "easy",
+      "prompt": "What is the generic name for Celexa?",
+      "choices": [
+        "Levothyroxine",
+        "Citalopram",
+        "Doxycycline",
+        "Lisinopril"
+      ],
+      "answer": "Citalopram"
+    },
+    {
+      "id": "drug-030",
+      "category": "drugNames",
+      "difficulty": "easy",
+      "prompt": "What is the generic name for Keflex?",
+      "choices": [
+        "Prednisone",
+        "Amlodipine",
+        "Estradiol",
+        "Cephalexin"
+      ],
+      "answer": "Cephalexin"
+    },
+    {
+      "id": "drug-031",
+      "category": "drugNames",
+      "difficulty": "easy",
+      "prompt": "What is the generic name for Cipro?",
+      "choices": [
+        "Ciprofloxacin",
+        "Gabapentin",
+        "Clindamycin",
+        "Omeprazole"
+      ],
+      "answer": "Ciprofloxacin"
+    },
+    {
+      "id": "drug-032",
+      "category": "drugNames",
+      "difficulty": "easy",
+      "prompt": "What is the generic name for Levaquin?",
+      "choices": [
+        "Ethinyl Estradiol/Norgestimate",
+        "Sertraline",
+        "Levofloxacin",
+        "Warfarin"
+      ],
+      "answer": "Levofloxacin"
+    },
+    {
+      "id": "drug-033",
+      "category": "drugNames",
+      "difficulty": "easy",
+      "prompt": "What is the generic name for Vibramycin?",
+      "choices": [
+        "Doxycycline",
+        "Metoprolol",
+        "Hydroxyzine",
+        "Zolpidem"
+      ],
+      "answer": "Doxycycline"
+    },
+    {
+      "id": "drug-034",
+      "category": "drugNames",
+      "difficulty": "easy",
+      "prompt": "What is the generic name for Zithromax?",
+      "choices": [
+        "Prednisone",
+        "Albuterol",
+        "Levothyroxine",
+        "Azithromycin"
+      ],
+      "answer": "Azithromycin"
+    },
+    {
+      "id": "drug-035",
+      "category": "drugNames",
+      "difficulty": "easy",
+      "prompt": "What is the generic name for Amoxil?",
+      "choices": [
+        "Albuterol",
+        "Ethinyl Estradiol/Norgestimate",
+        "Amoxicillin",
+        "Isosorbide Dinitrate"
+      ],
+      "answer": "Amoxicillin"
+    },
+    {
+      "id": "drug-036",
+      "category": "drugNames",
+      "difficulty": "easy",
+      "prompt": "What is the generic name for Cleocin?",
+      "choices": [
+        "Amlodipine",
+        "Lorazepam",
+        "Clindamycin",
+        "Hydroxyzine"
+      ],
+      "answer": "Clindamycin"
+    },
+    {
+      "id": "drug-037",
+      "category": "drugNames",
+      "difficulty": "easy",
+      "prompt": "What is the generic name for Ortho Tri-Cyclen?",
+      "choices": [
+        "Ethinyl Estradiol/Norgestimate",
+        "Omeprazole",
+        "Doxycycline",
+        "Clopidogrel"
+      ],
+      "answer": "Ethinyl Estradiol/Norgestimate"
+    },
+    {
+      "id": "drug-038",
+      "category": "drugNames",
+      "difficulty": "easy",
+      "prompt": "What is the generic name for Alora?",
+      "choices": [
+        "Amoxicillin",
+        "Pantoprazole",
+        "Estradiol",
+        "Gabapentin"
+      ],
+      "answer": "Estradiol"
+    },
+    {
+      "id": "drug-039",
+      "category": "drugNames",
+      "difficulty": "easy",
+      "prompt": "What is the generic name for Isordil?",
+      "choices": [
+        "Simvastatin",
+        "Atenolol",
+        "Furosemide",
+        "Isosorbide Dinitrate"
+      ],
+      "answer": "Isosorbide Dinitrate"
+    },
+    {
+      "id": "drug-040",
+      "category": "drugNames",
+      "difficulty": "easy",
+      "prompt": "What is the generic name for OxyContin?",
+      "choices": [
+        "Ibuprofen",
+        "Oxycodone",
+        "Carvedilol",
+        "Atenolol"
+      ],
+      "answer": "Oxycodone"
+    },
+    {
+      "id": "drug-041",
+      "category": "drugNames",
+      "difficulty": "easy",
+      "prompt": "What is the generic name for Klonopin?",
+      "choices": [
+        "Simvastatin",
+        "Paroxetine",
+        "Fenofibrate",
+        "Clonazepam"
+      ],
+      "answer": "Clonazepam"
+    },
+    {
+      "id": "drug-042",
+      "category": "drugNames",
+      "difficulty": "easy",
+      "prompt": "What is the generic name for Ativan?",
+      "choices": [
+        "Lorazepam",
+        "Furosemide",
+        "Prednisone",
+        "Simvastatin"
+      ],
+      "answer": "Lorazepam"
+    },
+    {
+      "id": "drug-043",
+      "category": "drugNames",
+      "difficulty": "easy",
+      "prompt": "What is the generic name for Paxil?",
+      "choices": [
+        "Montelukast",
+        "Paroxetine",
+        "Gabapentin",
+        "Carvedilol"
+      ],
+      "answer": "Paroxetine"
+    },
+    {
+      "id": "drug-044",
+      "category": "drugNames",
+      "difficulty": "easy",
+      "prompt": "What is the generic name for Zetia?",
+      "choices": [
+        "Omeprazole",
+        "Citalopram",
+        "Clindamycin",
+        "Ezetimibe"
+      ],
+      "answer": "Ezetimibe"
+    },
+    {
+      "id": "drug-045",
+      "category": "drugNames",
+      "difficulty": "easy",
+      "prompt": "What is the generic name for Tricor?",
+      "choices": [
+        "Fenofibrate",
+        "Prednisone",
+        "Losartan",
+        "Sertraline"
+      ],
+      "answer": "Fenofibrate"
+    },
+    {
+      "id": "drug-046",
+      "category": "drugNames",
+      "difficulty": "easy",
+      "prompt": "What is the generic name for Lopid?",
+      "choices": [
+        "Metoprolol",
+        "Gemfibrozil",
+        "Amlodipine",
+        "Pantoprazole"
+      ],
+      "answer": "Gemfibrozil"
+    },
+    {
+      "id": "drug-047",
+      "category": "drugNames",
+      "difficulty": "easy",
+      "prompt": "What is the generic name for Vistaril?",
+      "choices": [
+        "Hydroxyzine",
+        "Cephalexin",
+        "Tamsulosin",
+        "Warfarin"
+      ],
+      "answer": "Hydroxyzine"
+    },
+    {
+      "id": "drug-048",
+      "category": "drugNames",
+      "difficulty": "easy",
+      "prompt": "What is the generic name for Benicar?",
+      "choices": [
+        "Fluoxetine",
+        "Furosemide",
+        "Olmesartan",
+        "Hydrochlorothiazide"
+      ],
+      "answer": "Olmesartan"
+    },
+    {
+      "id": "calc-001",
+      "category": "dosageCalc",
+      "difficulty": "hard",
+      "prompt": "Convert 100 mg to mL if concentration is 10 mg/mL.",
+      "answer": "10.0",
+      "choices": [
+        "5.87",
+        "9.07",
+        "10.0",
+        "5.52"
+      ]
+    },
+    {
+      "id": "calc-002",
+      "category": "dosageCalc",
+      "difficulty": "hard",
+      "prompt": "Convert 100 mg to mL if concentration is 25 mg/mL.",
+      "answer": "4.0",
+      "choices": [
+        "3.33",
+        "4.0",
+        "4.14",
+        "5.41"
+      ]
+    },
+    {
+      "id": "calc-003",
+      "category": "dosageCalc",
+      "difficulty": "hard",
+      "prompt": "Convert 100 mg to mL if concentration is 50 mg/mL.",
+      "answer": "2.0",
+      "choices": [
+        "2.12",
+        "1.33",
+        "2.4",
+        "2.0"
+      ]
+    },
+    {
+      "id": "calc-004",
+      "category": "dosageCalc",
+      "difficulty": "hard",
+      "prompt": "Convert 100 mg to mL if concentration is 100 mg/mL.",
+      "answer": "1.0",
+      "choices": [
+        "0.95",
+        "0.57",
+        "1.0",
+        "0.82"
+      ]
+    },
+    {
+      "id": "calc-005",
+      "category": "dosageCalc",
+      "difficulty": "hard",
+      "prompt": "Convert 250 mg to mL if concentration is 10 mg/mL.",
+      "answer": "25.0",
+      "choices": [
+        "19.8",
+        "35.17",
+        "15.66",
+        "25.0"
+      ]
+    },
+    {
+      "id": "calc-006",
+      "category": "dosageCalc",
+      "difficulty": "hard",
+      "prompt": "Convert 250 mg to mL if concentration is 25 mg/mL.",
+      "answer": "10.0",
+      "choices": [
+        "7.65",
+        "12.69",
+        "10.0",
+        "13.38"
+      ]
+    },
+    {
+      "id": "calc-007",
+      "category": "dosageCalc",
+      "difficulty": "hard",
+      "prompt": "Convert 250 mg to mL if concentration is 50 mg/mL.",
+      "answer": "5.0",
+      "choices": [
+        "5.0",
+        "5.54",
+        "3.53",
+        "5.14"
+      ]
+    },
+    {
+      "id": "calc-008",
+      "category": "dosageCalc",
+      "difficulty": "hard",
+      "prompt": "Convert 250 mg to mL if concentration is 100 mg/mL.",
+      "answer": "2.5",
+      "choices": [
+        "3.48",
+        "2.34",
+        "2.87",
+        "2.5"
+      ]
+    },
+    {
+      "id": "calc-009",
+      "category": "dosageCalc",
+      "difficulty": "hard",
+      "prompt": "Convert 500 mg to mL if concentration is 10 mg/mL.",
+      "answer": "50.0",
+      "choices": [
+        "50.0",
+        "26.59",
+        "43.73",
+        "62.71"
+      ]
+    },
+    {
+      "id": "calc-010",
+      "category": "dosageCalc",
+      "difficulty": "hard",
+      "prompt": "Convert 500 mg to mL if concentration is 25 mg/mL.",
+      "answer": "20.0",
+      "choices": [
+        "28.27",
+        "13.4",
+        "20.0",
+        "23.16"
+      ]
+    },
+    {
+      "id": "calc-011",
+      "category": "dosageCalc",
+      "difficulty": "hard",
+      "prompt": "Convert 500 mg to mL if concentration is 50 mg/mL.",
+      "answer": "10.0",
+      "choices": [
+        "12.23",
+        "10.0",
+        "13.84",
+        "8.88"
+      ]
+    },
+    {
+      "id": "calc-012",
+      "category": "dosageCalc",
+      "difficulty": "hard",
+      "prompt": "Convert 500 mg to mL if concentration is 100 mg/mL.",
+      "answer": "5.0",
+      "choices": [
+        "5.0",
+        "4.32",
+        "5.43",
+        "6.66"
+      ]
+    },
+    {
+      "id": "calc-013",
+      "category": "dosageCalc",
+      "difficulty": "hard",
+      "prompt": "Convert 750 mg to mL if concentration is 10 mg/mL.",
+      "answer": "75.0",
+      "choices": [
+        "75.0",
+        "105.69",
+        "77.4",
+        "91.77"
+      ]
+    },
+    {
+      "id": "calc-014",
+      "category": "dosageCalc",
+      "difficulty": "medium",
+      "prompt": "Convert 750 mg to mL if concentration is 25 mg/mL.",
+      "answer": "30.0",
+      "choices": [
+        "31.33",
+        "44.42",
+        "19.61",
+        "30.0"
+      ]
+    },
+    {
+      "id": "calc-015",
+      "category": "dosageCalc",
+      "difficulty": "medium",
+      "prompt": "Convert 750 mg to mL if concentration is 50 mg/mL.",
+      "answer": "15.0",
+      "choices": [
+        "10.4",
+        "15.0",
+        "9.52",
+        "8.16"
+      ]
+    },
+    {
+      "id": "calc-016",
+      "category": "dosageCalc",
+      "difficulty": "medium",
+      "prompt": "Convert 750 mg to mL if concentration is 100 mg/mL.",
+      "answer": "7.5",
+      "choices": [
+        "7.5",
+        "3.75",
+        "8.51",
+        "10.91"
+      ]
+    },
+    {
+      "id": "calc-017",
+      "category": "dosageCalc",
+      "difficulty": "medium",
+      "prompt": "Convert 1000 mg to mL if concentration is 10 mg/mL.",
+      "answer": "100.0",
+      "choices": [
+        "120.71",
+        "139.75",
+        "58.29",
+        "100.0"
+      ]
+    },
+    {
+      "id": "calc-018",
+      "category": "dosageCalc",
+      "difficulty": "medium",
+      "prompt": "Convert 1000 mg to mL if concentration is 25 mg/mL.",
+      "answer": "40.0",
+      "choices": [
+        "40.0",
+        "21.17",
+        "58.23",
+        "32.9"
+      ]
+    },
+    {
+      "id": "calc-019",
+      "category": "dosageCalc",
+      "difficulty": "medium",
+      "prompt": "Convert 1000 mg to mL if concentration is 50 mg/mL.",
+      "answer": "20.0",
+      "choices": [
+        "18.28",
+        "10.48",
+        "20.0",
+        "22.72"
+      ]
+    },
+    {
+      "id": "calc-020",
+      "category": "dosageCalc",
+      "difficulty": "medium",
+      "prompt": "Convert 1000 mg to mL if concentration is 100 mg/mL.",
+      "answer": "10.0",
+      "choices": [
+        "10.0",
+        "11.79",
+        "12.18",
+        "8.72"
+      ]
+    },
+    {
+      "id": "pad-164",
+      "category": "dosageCalc",
+      "difficulty": "medium",
+      "prompt": "Convert 750 mg to mL if concentration is 25 mg/mL.",
+      "answer": "30.0",
+      "choices": [
+        "33.83",
+        "39.74",
+        "37.74",
+        "30.0"
+      ]
+    },
+    {
+      "id": "pad-165",
+      "category": "dosageCalc",
+      "difficulty": "medium",
+      "prompt": "Convert 750 mg to mL if concentration is 50 mg/mL.",
+      "answer": "15.0",
+      "choices": [
+        "21.24",
+        "9.69",
+        "17.34",
+        "15.0"
+      ]
+    },
+    {
+      "id": "pad-166",
+      "category": "dosageCalc",
+      "difficulty": "medium",
+      "prompt": "Convert 750 mg to mL if concentration is 100 mg/mL.",
+      "answer": "7.5",
+      "choices": [
+        "6.28",
+        "7.5",
+        "4.65",
+        "7.76"
+      ]
+    },
+    {
+      "id": "pad-167",
+      "category": "dosageCalc",
+      "difficulty": "medium",
+      "prompt": "Convert 1000 mg to mL if concentration is 10 mg/mL.",
+      "answer": "100.0",
+      "choices": [
+        "100.0",
+        "93.22",
+        "95.47",
+        "124.14"
+      ]
+    },
+    {
+      "id": "pad-168",
+      "category": "dosageCalc",
+      "difficulty": "medium",
+      "prompt": "Convert 1000 mg to mL if concentration is 25 mg/mL.",
+      "answer": "40.0",
+      "choices": [
+        "59.22",
+        "54.84",
+        "49.61",
+        "40.0"
+      ]
+    },
+    {
+      "id": "pad-169",
+      "category": "dosageCalc",
+      "difficulty": "medium",
+      "prompt": "Convert 1000 mg to mL if concentration is 50 mg/mL.",
+      "answer": "20.0",
+      "choices": [
+        "20.43",
+        "10.57",
+        "20.0",
+        "25.82"
+      ]
+    },
+    {
+      "id": "pad-170",
+      "category": "dosageCalc",
+      "difficulty": "easy",
+      "prompt": "Convert 1000 mg to mL if concentration is 100 mg/mL.",
+      "answer": "10.0",
+      "choices": [
+        "10.0",
+        "13.93",
+        "8.69",
+        "10.45"
+      ]
+    },
+    {
+      "id": "pad-171",
+      "category": "dosageCalc",
+      "difficulty": "easy",
+      "prompt": "Convert 100 mg to mL if concentration is 10 mg/mL.",
+      "answer": "10.0",
+      "choices": [
+        "10.0",
+        "13.86",
+        "7.43",
+        "14.3"
+      ]
+    },
+    {
+      "id": "pad-172",
+      "category": "dosageCalc",
+      "difficulty": "easy",
+      "prompt": "Convert 100 mg to mL if concentration is 25 mg/mL.",
+      "answer": "4.0",
+      "choices": [
+        "4.0",
+        "2.79",
+        "5.75",
+        "2.32"
+      ]
+    },
+    {
+      "id": "pad-173",
+      "category": "dosageCalc",
+      "difficulty": "easy",
+      "prompt": "Convert 100 mg to mL if concentration is 50 mg/mL.",
+      "answer": "2.0",
+      "choices": [
+        "1.46",
+        "2.0",
+        "1.54",
+        "2.2"
+      ]
+    },
+    {
+      "id": "pad-174",
+      "category": "dosageCalc",
+      "difficulty": "easy",
+      "prompt": "Convert 100 mg to mL if concentration is 100 mg/mL.",
+      "answer": "1.0",
+      "choices": [
+        "1.03",
+        "1.43",
+        "1.31",
+        "1.0"
+      ]
+    },
+    {
+      "id": "pad-175",
+      "category": "dosageCalc",
+      "difficulty": "easy",
+      "prompt": "Convert 250 mg to mL if concentration is 10 mg/mL.",
+      "answer": "25.0",
+      "choices": [
+        "33.32",
+        "31.92",
+        "18.92",
+        "25.0"
+      ]
+    },
+    {
+      "id": "pad-176",
+      "category": "dosageCalc",
+      "difficulty": "easy",
+      "prompt": "Convert 250 mg to mL if concentration is 25 mg/mL.",
+      "answer": "10.0",
+      "choices": [
+        "10.0",
+        "13.4",
+        "14.25",
+        "14.14"
+      ]
+    },
+    {
+      "id": "pad-177",
+      "category": "dosageCalc",
+      "difficulty": "easy",
+      "prompt": "Convert 250 mg to mL if concentration is 50 mg/mL.",
+      "answer": "5.0",
+      "choices": [
+        "4.22",
+        "5.0",
+        "5.42",
+        "5.96"
+      ]
+    },
+    {
+      "id": "pad-178",
+      "category": "dosageCalc",
+      "difficulty": "easy",
+      "prompt": "Convert 250 mg to mL if concentration is 100 mg/mL.",
+      "answer": "2.5",
+      "choices": [
+        "3.39",
+        "2.04",
+        "2.5",
+        "3.64"
+      ]
+    },
+    {
+      "id": "pad-179",
+      "category": "dosageCalc",
+      "difficulty": "easy",
+      "prompt": "Convert 500 mg to mL if concentration is 10 mg/mL.",
+      "answer": "50.0",
+      "choices": [
+        "74.85",
+        "34.62",
+        "65.57",
+        "50.0"
+      ]
+    },
+    {
+      "id": "pad-180",
+      "category": "dosageCalc",
+      "difficulty": "easy",
+      "prompt": "Convert 500 mg to mL if concentration is 25 mg/mL.",
+      "answer": "20.0",
+      "choices": [
+        "15.31",
+        "17.51",
+        "28.49",
+        "20.0"
+      ]
+    },
+    {
+      "id": "pad-181",
+      "category": "dosageCalc",
+      "difficulty": "easy",
+      "prompt": "Convert 500 mg to mL if concentration is 50 mg/mL.",
+      "answer": "10.0",
+      "choices": [
+        "10.0",
+        "14.22",
+        "7.65",
+        "6.22"
+      ]
+    },
+    {
+      "id": "pad-182",
+      "category": "dosageCalc",
+      "difficulty": "easy",
+      "prompt": "Convert 500 mg to mL if concentration is 100 mg/mL.",
+      "answer": "5.0",
+      "choices": [
+        "5.0",
+        "2.76",
+        "4.44",
+        "3.04"
+      ]
+    },
+    {
+      "id": "pad-183",
+      "category": "dosageCalc",
+      "difficulty": "easy",
+      "prompt": "Convert 750 mg to mL if concentration is 10 mg/mL.",
+      "answer": "75.0",
+      "choices": [
+        "80.36",
+        "75.0",
+        "70.44",
+        "57.44"
+      ]
+    },
+    {
+      "id": "pad-184",
+      "category": "dosageCalc",
+      "difficulty": "easy",
+      "prompt": "Convert 750 mg to mL if concentration is 25 mg/mL.",
+      "answer": "30.0",
+      "choices": [
+        "30.03",
+        "23.25",
+        "30.0",
+        "42.16"
+      ]
+    },
+    {
+      "id": "pad-185",
+      "category": "dosageCalc",
+      "difficulty": "easy",
+      "prompt": "Convert 750 mg to mL if concentration is 50 mg/mL.",
+      "answer": "15.0",
+      "choices": [
+        "18.51",
+        "7.8",
+        "17.4",
+        "15.0"
+      ]
+    },
+    {
+      "id": "pad-186",
+      "category": "dosageCalc",
+      "difficulty": "easy",
+      "prompt": "Convert 750 mg to mL if concentration is 100 mg/mL.",
+      "answer": "7.5",
+      "choices": [
+        "7.28",
+        "7.5",
+        "7.81",
+        "6.19"
+      ]
+    },
+    {
+      "id": "pad-187",
+      "category": "dosageCalc",
+      "difficulty": "easy",
+      "prompt": "Convert 1000 mg to mL if concentration is 10 mg/mL.",
+      "answer": "100.0",
+      "choices": [
+        "139.96",
+        "96.34",
+        "100.0",
+        "138.75"
+      ]
+    },
+    {
+      "id": "pad-188",
+      "category": "dosageCalc",
+      "difficulty": "easy",
+      "prompt": "Convert 1000 mg to mL if concentration is 25 mg/mL.",
+      "answer": "40.0",
+      "choices": [
+        "40.0",
+        "35.46",
+        "47.52",
+        "32.82"
+      ]
+    },
+    {
+      "id": "pad-189",
+      "category": "dosageCalc",
+      "difficulty": "easy",
+      "prompt": "Convert 1000 mg to mL if concentration is 50 mg/mL.",
+      "answer": "20.0",
+      "choices": [
+        "18.32",
+        "20.0",
+        "18.5",
+        "13.36"
+      ]
+    },
+    {
+      "id": "pad-190",
+      "category": "dosageCalc",
+      "difficulty": "easy",
+      "prompt": "Convert 1000 mg to mL if concentration is 100 mg/mL.",
+      "answer": "10.0",
+      "choices": [
+        "6.98",
+        "6.66",
+        "10.0",
+        "7.69"
+      ]
+    },
+    {
+      "id": "pad-191",
+      "category": "dosageCalc",
+      "difficulty": "easy",
+      "prompt": "Convert 100 mg to mL if concentration is 10 mg/mL.",
+      "answer": "10.0",
+      "choices": [
+        "7.82",
+        "13.66",
+        "10.0",
+        "9.67"
+      ]
+    },
+    {
+      "id": "pad-192",
+      "category": "dosageCalc",
+      "difficulty": "easy",
+      "prompt": "Convert 100 mg to mL if concentration is 25 mg/mL.",
+      "answer": "4.0",
+      "choices": [
+        "4.0",
+        "4.45",
+        "4.23",
+        "5.23"
+      ]
+    },
+    {
+      "id": "pad-193",
+      "category": "dosageCalc",
+      "difficulty": "easy",
+      "prompt": "Convert 100 mg to mL if concentration is 50 mg/mL.",
+      "answer": "2.0",
+      "choices": [
+        "1.81",
+        "2.58",
+        "1.22",
+        "2.0"
+      ]
+    },
+    {
+      "id": "pad-194",
+      "category": "dosageCalc",
+      "difficulty": "easy",
+      "prompt": "Convert 100 mg to mL if concentration is 100 mg/mL.",
+      "answer": "1.0",
+      "choices": [
+        "1.0",
+        "0.65",
+        "1.02",
+        "0.63"
+      ]
+    },
+    {
+      "id": "pad-195",
+      "category": "dosageCalc",
+      "difficulty": "easy",
+      "prompt": "Convert 250 mg to mL if concentration is 10 mg/mL.",
+      "answer": "25.0",
+      "choices": [
+        "22.59",
+        "18.61",
+        "25.0",
+        "17.7"
+      ]
+    },
+    {
+      "id": "pad-196",
+      "category": "dosageCalc",
+      "difficulty": "easy",
+      "prompt": "Convert 250 mg to mL if concentration is 25 mg/mL.",
+      "answer": "10.0",
+      "choices": [
+        "5.42",
+        "10.0",
+        "10.47",
+        "11.56"
+      ]
+    },
+    {
+      "id": "pad-197",
+      "category": "dosageCalc",
+      "difficulty": "easy",
+      "prompt": "Convert 250 mg to mL if concentration is 50 mg/mL.",
+      "answer": "5.0",
+      "choices": [
+        "5.99",
+        "4.02",
+        "5.0",
+        "7.14"
+      ]
+    },
+    {
+      "id": "pad-198",
+      "category": "dosageCalc",
+      "difficulty": "easy",
+      "prompt": "Convert 250 mg to mL if concentration is 100 mg/mL.",
+      "answer": "2.5",
+      "choices": [
+        "1.31",
+        "1.78",
+        "2.5",
+        "2.15"
+      ]
+    },
+    {
+      "id": "pad-199",
+      "category": "dosageCalc",
+      "difficulty": "easy",
+      "prompt": "Convert 500 mg to mL if concentration is 10 mg/mL.",
+      "answer": "50.0",
+      "choices": [
+        "50.53",
+        "71.0",
+        "45.71",
+        "50.0"
+      ]
+    },
+    {
+      "id": "pad-200",
+      "category": "dosageCalc",
+      "difficulty": "easy",
+      "prompt": "Convert 500 mg to mL if concentration is 25 mg/mL.",
+      "answer": "20.0",
+      "choices": [
+        "17.8",
+        "20.0",
+        "29.67",
+        "19.94"
+      ]
+    },
+    {
+      "id": "law-001",
+      "category": "lawSafety",
+      "difficulty": "hard",
+      "prompt": "Which schedule drug is Morphine?",
+      "choices": [
+        "Schedule II",
+        "Schedule III",
+        "Schedule I",
+        "Schedule V"
+      ],
+      "answer": "Schedule II"
+    },
+    {
+      "id": "law-002",
+      "category": "lawSafety",
+      "difficulty": "hard",
+      "prompt": "Which schedule drug is LSD?",
+      "choices": [
+        "OTC",
+        "Excluded",
+        "Schedule II",
+        "Schedule I"
+      ],
+      "answer": "Schedule I"
+    },
+    {
+      "id": "law-003",
+      "category": "lawSafety",
+      "difficulty": "hard",
+      "prompt": "Which schedule drug is Heroin?",
+      "choices": [
+        "Excluded",
+        "Schedule III",
+        "Schedule IV",
+        "Schedule I"
+      ],
+      "answer": "Schedule I"
+    },
+    {
+      "id": "law-004",
+      "category": "lawSafety",
+      "difficulty": "hard",
+      "prompt": "Which schedule drug is Cocaine?",
+      "choices": [
+        "Schedule I",
+        "Schedule II",
+        "Schedule IV",
+        "OTC"
+      ],
+      "answer": "Schedule II"
+    },
+    {
+      "id": "law-005",
+      "category": "lawSafety",
+      "difficulty": "hard",
+      "prompt": "Which schedule drug is Marijuana?",
+      "choices": [
+        "Excluded",
+        "Schedule V",
+        "Schedule I",
+        "Schedule III"
+      ],
+      "answer": "Schedule I"
+    },
+    {
+      "id": "law-006",
+      "category": "lawSafety",
+      "difficulty": "hard",
+      "prompt": "Which schedule drug is Amphetamine?",
+      "choices": [
+        "Schedule III",
+        "Schedule II",
+        "Schedule I",
+        "Excluded"
+      ],
+      "answer": "Schedule II"
+    },
+    {
+      "id": "law-007",
+      "category": "lawSafety",
+      "difficulty": "hard",
+      "prompt": "Which schedule drug is Diazepam?",
+      "choices": [
+        "Schedule V",
+        "Excluded",
+        "Schedule II",
+        "Schedule IV"
+      ],
+      "answer": "Schedule IV"
+    },
+    {
+      "id": "law-008",
+      "category": "lawSafety",
+      "difficulty": "hard",
+      "prompt": "Which schedule drug is Alprazolam?",
+      "choices": [
+        "Schedule II",
+        "Schedule IV",
+        "Excluded",
+        "Schedule I"
+      ],
+      "answer": "Schedule IV"
+    },
+    {
+      "id": "law-009",
+      "category": "lawSafety",
+      "difficulty": "hard",
+      "prompt": "Which schedule drug is Fentanyl?",
+      "choices": [
+        "Schedule I",
+        "Schedule IV",
+        "Schedule III",
+        "Schedule II"
+      ],
+      "answer": "Schedule II"
+    },
+    {
+      "id": "law-010",
+      "category": "lawSafety",
+      "difficulty": "hard",
+      "prompt": "Which schedule drug is Hydrocodone?",
+      "choices": [
+        "Schedule II",
+        "Schedule IV",
+        "Schedule III",
+        "Schedule V"
+      ],
+      "answer": "Schedule II"
+    },
+    {
+      "id": "law-011",
+      "category": "lawSafety",
+      "difficulty": "hard",
+      "prompt": "Which schedule drug is Tramadol?",
+      "choices": [
+        "Excluded",
+        "Schedule IV",
+        "Schedule III",
+        "Schedule V"
+      ],
+      "answer": "Schedule IV"
+    },
+    {
+      "id": "law-012",
+      "category": "lawSafety",
+      "difficulty": "hard",
+      "prompt": "Which schedule drug is Methadone?",
+      "choices": [
+        "Excluded",
+        "OTC",
+        "Schedule II",
+        "Schedule I"
+      ],
+      "answer": "Schedule II"
+    },
+    {
+      "id": "law-013",
+      "category": "lawSafety",
+      "difficulty": "medium",
+      "prompt": "Which schedule drug is Oxycodone?",
+      "choices": [
+        "Schedule III",
+        "Schedule II",
+        "Excluded",
+        "Schedule I"
+      ],
+      "answer": "Schedule II"
+    },
+    {
+      "id": "law-014",
+      "category": "lawSafety",
+      "difficulty": "medium",
+      "prompt": "Which schedule drug is Psilocybin?",
+      "choices": [
+        "Schedule I",
+        "Schedule III",
+        "Schedule V",
+        "Schedule IV"
+      ],
+      "answer": "Schedule I"
+    },
+    {
+      "id": "law-015",
+      "category": "lawSafety",
+      "difficulty": "medium",
+      "prompt": "Which schedule drug is Caffeine?",
+      "choices": [
+        "Excluded",
+        "Schedule III",
+        "Schedule IV",
+        "Schedule I"
+      ],
+      "answer": "Schedule IV"
+    },
+    {
+      "id": "law-016",
+      "category": "lawSafety",
+      "difficulty": "medium",
+      "prompt": "Which schedule drug is Ketamine?",
+      "choices": [
+        "Schedule IV",
+        "Excluded",
+        "Schedule I",
+        "Schedule III"
+      ],
+      "answer": "Schedule III"
+    },
+    {
+      "id": "law-017",
+      "category": "lawSafety",
+      "difficulty": "medium",
+      "prompt": "Which schedule drug is Modafinil?",
+      "choices": [
+        "Schedule III",
+        "Schedule IV",
+        "Schedule V",
+        "OTC"
+      ],
+      "answer": "Schedule IV"
+    },
+    {
+      "id": "law-018",
+      "category": "lawSafety",
+      "difficulty": "medium",
+      "prompt": "Which schedule drug is Methylphenidate?",
+      "choices": [
+        "Schedule V",
+        "Schedule II",
+        "Schedule III",
+        "Schedule I"
+      ],
+      "answer": "Schedule II"
+    },
+    {
+      "id": "law-019",
+      "category": "lawSafety",
+      "difficulty": "medium",
+      "prompt": "Which schedule drug is Barbiturates?",
+      "choices": [
+        "Schedule IV",
+        "Schedule V",
+        "Schedule II",
+        "Excluded"
+      ],
+      "answer": "Schedule II"
+    },
+    {
+      "id": "law-020",
+      "category": "lawSafety",
+      "difficulty": "medium",
+      "prompt": "Which schedule drug is Buprenorphine?",
+      "choices": [
+        "Schedule II",
+        "Schedule IV",
+        "Schedule III",
+        "Schedule I"
+      ],
+      "answer": "Schedule III"
+    },
+    {
+      "id": "law-021",
+      "category": "lawSafety",
+      "difficulty": "medium",
+      "prompt": "Which schedule drug is Testosterone?",
+      "choices": [
+        "Schedule II",
+        "Schedule III",
+        "Schedule I",
+        "Excluded"
+      ],
+      "answer": "Schedule III"
+    },
+    {
+      "id": "law-022",
+      "category": "lawSafety",
+      "difficulty": "medium",
+      "prompt": "Which schedule drug is GHB?",
+      "choices": [
+        "Schedule I",
+        "Schedule II",
+        "Schedule IV",
+        "Excluded"
+      ],
+      "answer": "Schedule I"
+    },
+    {
+      "id": "law-023",
+      "category": "lawSafety",
+      "difficulty": "medium",
+      "prompt": "Which schedule drug is MDMA?",
+      "choices": [
+        "Schedule II",
+        "Schedule I",
+        "Schedule IV",
+        "Schedule V"
+      ],
+      "answer": "Schedule I"
+    },
+    {
+      "id": "law-024",
+      "category": "lawSafety",
+      "difficulty": "medium",
+      "prompt": "Which schedule drug is Carisoprodol?",
+      "choices": [
+        "Excluded",
+        "OTC",
+        "Schedule III",
+        "Schedule IV"
+      ],
+      "answer": "Schedule IV"
+    },
+    {
+      "id": "law-025",
+      "category": "lawSafety",
+      "difficulty": "easy",
+      "prompt": "Which schedule drug is Phenobarbital?",
+      "choices": [
+        "Schedule I",
+        "OTC",
+        "Excluded",
+        "Schedule IV"
+      ],
+      "answer": "Schedule IV"
+    },
+    {
+      "id": "law-026",
+      "category": "lawSafety",
+      "difficulty": "easy",
+      "prompt": "Which schedule drug is Flunitrazepam?",
+      "choices": [
+        "OTC",
+        "Schedule II",
+        "Excluded",
+        "Schedule IV"
+      ],
+      "answer": "Schedule IV"
+    },
+    {
+      "id": "law-027",
+      "category": "lawSafety",
+      "difficulty": "easy",
+      "prompt": "Which schedule drug is Pentobarbital?",
+      "choices": [
+        "Excluded",
+        "Schedule I",
+        "Schedule III",
+        "Schedule II"
+      ],
+      "answer": "Schedule II"
+    },
+    {
+      "id": "law-028",
+      "category": "lawSafety",
+      "difficulty": "easy",
+      "prompt": "Which schedule drug is Secobarbital?",
+      "choices": [
+        "Schedule IV",
+        "OTC",
+        "Schedule III",
+        "Schedule II"
+      ],
+      "answer": "Schedule II"
+    },
+    {
+      "id": "law-029",
+      "category": "lawSafety",
+      "difficulty": "easy",
+      "prompt": "Which schedule drug is Phencyclidine?",
+      "choices": [
+        "Schedule II",
+        "Schedule I",
+        "OTC",
+        "Schedule IV"
+      ],
+      "answer": "Schedule II"
+    },
+    {
+      "id": "law-030",
+      "category": "lawSafety",
+      "difficulty": "easy",
+      "prompt": "Which schedule drug is Nitrous Oxide?",
+      "choices": [
+        "Schedule III",
+        "Schedule I",
+        "Excluded",
+        "Schedule V"
+      ],
+      "answer": "Excluded"
+    },
+    {
+      "id": "law-031",
+      "category": "lawSafety",
+      "difficulty": "easy",
+      "prompt": "Which schedule drug is Pseudoephedrine?",
+      "choices": [
+        "Excluded",
+        "Schedule V",
+        "Schedule III",
+        "OTC"
+      ],
+      "answer": "Schedule V"
+    },
+    {
+      "id": "law-032",
+      "category": "lawSafety",
+      "difficulty": "easy",
+      "prompt": "Which schedule drug is Diphenoxylate?",
+      "choices": [
+        "Schedule II",
+        "Excluded",
+        "Schedule III",
+        "Schedule V"
+      ],
+      "answer": "Schedule V"
+    },
+    {
+      "id": "law-033",
+      "category": "lawSafety",
+      "difficulty": "easy",
+      "prompt": "Which schedule drug is Codeine?",
+      "choices": [
+        "Schedule II",
+        "Excluded",
+        "Schedule I",
+        "Schedule V"
+      ],
+      "answer": "Schedule II"
+    },
+    {
+      "id": "law-034",
+      "category": "lawSafety",
+      "difficulty": "easy",
+      "prompt": "Which schedule drug is Buprenorphine?",
+      "choices": [
+        "Schedule II",
+        "OTC",
+        "Schedule I",
+        "Schedule III"
+      ],
+      "answer": "Schedule III"
+    },
+    {
+      "id": "law-035",
+      "category": "lawSafety",
+      "difficulty": "easy",
+      "prompt": "Which schedule drug is Hydromorphone?",
+      "choices": [
+        "OTC",
+        "Schedule II",
+        "Schedule V",
+        "Excluded"
+      ],
+      "answer": "Schedule II"
+    },
+    {
+      "id": "law-036",
+      "category": "lawSafety",
+      "difficulty": "easy",
+      "prompt": "Which schedule drug is Oxymorphone?",
+      "choices": [
+        "Schedule V",
+        "Schedule I",
+        "Schedule II",
+        "Excluded"
+      ],
+      "answer": "Schedule II"
+    },
+    {
+      "id": "law-037",
+      "category": "lawSafety",
+      "difficulty": "easy",
+      "prompt": "Which schedule drug is Methyltestosterone?",
+      "choices": [
+        "Schedule I",
+        "Schedule III",
+        "Excluded",
+        "Schedule II"
+      ],
+      "answer": "Schedule III"
+    },
+    {
+      "id": "law-038",
+      "category": "lawSafety",
+      "difficulty": "easy",
+      "prompt": "Which schedule drug is Phenazopyridine?",
+      "choices": [
+        "Excluded",
+        "Schedule IV",
+        "OTC",
+        "Schedule V"
+      ],
+      "answer": "OTC"
+    },
+    {
+      "id": "law-039",
+      "category": "lawSafety",
+      "difficulty": "easy",
+      "prompt": "Which schedule drug is Dextromethorphan?",
+      "choices": [
+        "Schedule IV",
+        "Schedule V",
+        "OTC",
+        "Excluded"
+      ],
+      "answer": "OTC"
+    },
+    {
+      "id": "law-040",
+      "category": "lawSafety",
+      "difficulty": "easy",
+      "prompt": "Which schedule drug is Loperamide?",
+      "choices": [
+        "Schedule II",
+        "OTC",
+        "Excluded",
+        "Schedule V"
+      ],
+      "answer": "OTC"
+    },
+    {
+      "id": "law-041",
+      "category": "lawSafety",
+      "difficulty": "easy",
+      "prompt": "Which schedule drug is Naproxen?",
+      "choices": [
+        "Schedule III",
+        "Schedule V",
+        "Excluded",
+        "OTC"
+      ],
+      "answer": "OTC"
+    },
+    {
+      "id": "law-042",
+      "category": "lawSafety",
+      "difficulty": "easy",
+      "prompt": "Which schedule drug is Ibuprofen?",
+      "choices": [
+        "Schedule II",
+        "OTC",
+        "Schedule V",
+        "Schedule I"
+      ],
+      "answer": "OTC"
+    },
+    {
+      "id": "law-043",
+      "category": "lawSafety",
+      "difficulty": "easy",
+      "prompt": "Which schedule drug is Acetaminophen?",
+      "choices": [
+        "OTC",
+        "Schedule IV",
+        "Schedule V",
+        "Excluded"
+      ],
+      "answer": "OTC"
+    },
+    {
+      "id": "law-044",
+      "category": "lawSafety",
+      "difficulty": "easy",
+      "prompt": "Which schedule drug is Diclofenac?",
+      "choices": [
+        "Schedule III",
+        "OTC",
+        "Schedule IV",
+        "Schedule V"
+      ],
+      "answer": "OTC"
+    },
+    {
+      "id": "law-045",
+      "category": "lawSafety",
+      "difficulty": "easy",
+      "prompt": "Which schedule drug is Loratadine?",
+      "choices": [
+        "OTC",
+        "Excluded",
+        "Schedule III",
+        "Schedule I"
+      ],
+      "answer": "OTC"
+    },
+    {
+      "id": "law-046",
+      "category": "lawSafety",
+      "difficulty": "easy",
+      "prompt": "Which schedule drug is Fexofenadine?",
+      "choices": [
+        "Schedule I",
+        "Schedule II",
+        "OTC",
+        "Schedule IV"
+      ],
+      "answer": "OTC"
+    },
+    {
+      "id": "law-047",
+      "category": "lawSafety",
+      "difficulty": "easy",
+      "prompt": "Which schedule drug is Cetirizine?",
+      "choices": [
+        "Schedule V",
+        "Schedule II",
+        "Schedule I",
+        "OTC"
+      ],
+      "answer": "OTC"
+    },
+    {
+      "id": "sig-001",
+      "category": "sigCode",
+      "difficulty": "hard",
+      "prompt": "What does \u201cqd\u201d stand for?",
+      "choices": [
+        "Extended-release",
+        "Once daily",
+        "Otic",
+        "Nasal"
+      ],
+      "answer": "Once daily"
+    },
+    {
+      "id": "sig-002",
+      "category": "sigCode",
+      "difficulty": "hard",
+      "prompt": "What does \u201cbid\u201d stand for?",
+      "choices": [
+        "Every 2 hours",
+        "Drops",
+        "Extended-release",
+        "Twice daily"
+      ],
+      "answer": "Twice daily"
+    },
+    {
+      "id": "sig-003",
+      "category": "sigCode",
+      "difficulty": "hard",
+      "prompt": "What does \u201ctid\u201d stand for?",
+      "choices": [
+        "Balm",
+        "Three times daily",
+        "Cream",
+        "After meals"
+      ],
+      "answer": "Three times daily"
+    },
+    {
+      "id": "sig-004",
+      "category": "sigCode",
+      "difficulty": "hard",
+      "prompt": "What does \u201cqid\u201d stand for?",
+      "choices": [
+        "Four times daily",
+        "Capsule",
+        "By mouth",
+        "Three times daily"
+      ],
+      "answer": "Four times daily"
+    },
+    {
+      "id": "sig-005",
+      "category": "sigCode",
+      "difficulty": "hard",
+      "prompt": "What does \u201cq6h\u201d stand for?",
+      "choices": [
+        "Every 6 hours",
+        "Orally disintegrating tablet",
+        "Sublingual",
+        "Suspension"
+      ],
+      "answer": "Every 6 hours"
+    },
+    {
+      "id": "sig-006",
+      "category": "sigCode",
+      "difficulty": "hard",
+      "prompt": "What does \u201cq4h\u201d stand for?",
+      "choices": [
+        "Enteric-coated",
+        "Every 4 hours",
+        "Ophthalmic",
+        "Nasal"
+      ],
+      "answer": "Every 4 hours"
+    },
+    {
+      "id": "sig-007",
+      "category": "sigCode",
+      "difficulty": "hard",
+      "prompt": "What does \u201cac\u201d stand for?",
+      "choices": [
+        "Ointment",
+        "Orally disintegrating tablet",
+        "Every 2 hours",
+        "Before meals"
+      ],
+      "answer": "Before meals"
+    },
+    {
+      "id": "sig-008",
+      "category": "sigCode",
+      "difficulty": "hard",
+      "prompt": "What does \u201cpc\u201d stand for?",
+      "choices": [
+        "After meals",
+        "Inhalation",
+        "Solution",
+        "Suspension"
+      ],
+      "answer": "After meals"
+    },
+    {
+      "id": "sig-009",
+      "category": "sigCode",
+      "difficulty": "hard",
+      "prompt": "What does \u201cprn\u201d stand for?",
+      "choices": [
+        "Elixir",
+        "As needed",
+        "Lotion",
+        "Every 4 hours"
+      ],
+      "answer": "As needed"
+    },
+    {
+      "id": "sig-010",
+      "category": "sigCode",
+      "difficulty": "hard",
+      "prompt": "What does \u201cpo\u201d stand for?",
+      "choices": [
+        "Once daily",
+        "By mouth",
+        "After meals",
+        "Three times daily"
+      ],
+      "answer": "By mouth"
+    },
+    {
+      "id": "sig-011",
+      "category": "sigCode",
+      "difficulty": "hard",
+      "prompt": "What does \u201cim\u201d stand for?",
+      "choices": [
+        "Immediately",
+        "Lotion",
+        "Subcutaneous",
+        "Intramuscular"
+      ],
+      "answer": "Intramuscular"
+    },
+    {
+      "id": "sig-012",
+      "category": "sigCode",
+      "difficulty": "hard",
+      "prompt": "What does \u201civ\u201d stand for?",
+      "choices": [
+        "Three times daily",
+        "Intravenous",
+        "Enteric-coated",
+        "Every other day"
+      ],
+      "answer": "Intravenous"
+    },
+    {
+      "id": "sig-013",
+      "category": "sigCode",
+      "difficulty": "medium",
+      "prompt": "What does \u201csl\u201d stand for?",
+      "choices": [
+        "Orally disintegrating tablet",
+        "Topical",
+        "Inhalation",
+        "Sublingual"
+      ],
+      "answer": "Sublingual"
+    },
+    {
+      "id": "sig-014",
+      "category": "sigCode",
+      "difficulty": "medium",
+      "prompt": "What does \u201ctop\u201d stand for?",
+      "choices": [
+        "Ointment",
+        "Topical",
+        "Extended-release",
+        "As needed"
+      ],
+      "answer": "Topical"
+    },
+    {
+      "id": "sig-015",
+      "category": "sigCode",
+      "difficulty": "medium",
+      "prompt": "What does \u201chs\u201d stand for?",
+      "choices": [
+        "At bedtime",
+        "Ointment",
+        "Orally disintegrating tablet",
+        "Every 6 hours"
+      ],
+      "answer": "At bedtime"
+    },
+    {
+      "id": "sig-016",
+      "category": "sigCode",
+      "difficulty": "medium",
+      "prompt": "What does \u201cqod\u201d stand for?",
+      "choices": [
+        "Every other day",
+        "As needed",
+        "Otic",
+        "Subcutaneous"
+      ],
+      "answer": "Every other day"
+    },
+    {
+      "id": "sig-017",
+      "category": "sigCode",
+      "difficulty": "medium",
+      "prompt": "What does \u201cstat\u201d stand for?",
+      "choices": [
+        "Elixir",
+        "Suspension",
+        "Ophthalmic",
+        "Immediately"
+      ],
+      "answer": "Immediately"
+    },
+    {
+      "id": "sig-018",
+      "category": "sigCode",
+      "difficulty": "medium",
+      "prompt": "What does \u201cqsh\u201d stand for?",
+      "choices": [
+        "Intravenous",
+        "Capsule",
+        "Every bedtime",
+        "At bedtime"
+      ],
+      "answer": "Every bedtime"
+    },
+    {
+      "id": "sig-019",
+      "category": "sigCode",
+      "difficulty": "medium",
+      "prompt": "What does \u201cq2h\u201d stand for?",
+      "choices": [
+        "Every 2 hours",
+        "Suspension",
+        "After meals",
+        "Nasal"
+      ],
+      "answer": "Every 2 hours"
+    },
+    {
+      "id": "sig-020",
+      "category": "sigCode",
+      "difficulty": "medium",
+      "prompt": "What does \u201cq3h\u201d stand for?",
+      "choices": [
+        "Sublingual",
+        "Every 3 hours",
+        "Immediately",
+        "Before meals"
+      ],
+      "answer": "Every 3 hours"
+    },
+    {
+      "id": "sig-021",
+      "category": "sigCode",
+      "difficulty": "medium",
+      "prompt": "What does \u201cqhs\u201d stand for?",
+      "choices": [
+        "Sublingual",
+        "Intravenous",
+        "Every bedtime",
+        "Tablet"
+      ],
+      "answer": "Every bedtime"
+    },
+    {
+      "id": "sig-022",
+      "category": "sigCode",
+      "difficulty": "medium",
+      "prompt": "What does \u201cbuccal\u201d stand for?",
+      "choices": [
+        "Balm",
+        "Extended-release",
+        "Suppository",
+        "Against the cheek"
+      ],
+      "answer": "Against the cheek"
+    },
+    {
+      "id": "sig-023",
+      "category": "sigCode",
+      "difficulty": "medium",
+      "prompt": "What does \u201cgtt\u201d stand for?",
+      "choices": [
+        "Elixir",
+        "Four times daily",
+        "Drops",
+        "Before meals"
+      ],
+      "answer": "Drops"
+    },
+    {
+      "id": "sig-024",
+      "category": "sigCode",
+      "difficulty": "medium",
+      "prompt": "What does \u201cung\u201d stand for?",
+      "choices": [
+        "Ointment",
+        "Tablet",
+        "Balm",
+        "Against the cheek"
+      ],
+      "answer": "Ointment"
+    },
+    {
+      "id": "sig-025",
+      "category": "sigCode",
+      "difficulty": "easy",
+      "prompt": "What does \u201ccap\u201d stand for?",
+      "choices": [
+        "Intravenous",
+        "Sustained-release",
+        "Capsule",
+        "Against the cheek"
+      ],
+      "answer": "Capsule"
+    },
+    {
+      "id": "sig-026",
+      "category": "sigCode",
+      "difficulty": "easy",
+      "prompt": "What does \u201ctab\u201d stand for?",
+      "choices": [
+        "Every bedtime",
+        "Ophthalmic",
+        "Tablet",
+        "Suspension"
+      ],
+      "answer": "Tablet"
+    },
+    {
+      "id": "sig-027",
+      "category": "sigCode",
+      "difficulty": "easy",
+      "prompt": "What does \u201csusp\u201d stand for?",
+      "choices": [
+        "Every bedtime",
+        "Every 2 hours",
+        "Suspension",
+        "Lotion"
+      ],
+      "answer": "Suspension"
+    },
+    {
+      "id": "sig-028",
+      "category": "sigCode",
+      "difficulty": "easy",
+      "prompt": "What does \u201celixir\u201d stand for?",
+      "choices": [
+        "Elixir",
+        "At bedtime",
+        "Rectal",
+        "Ointment"
+      ],
+      "answer": "Elixir"
+    },
+    {
+      "id": "sig-029",
+      "category": "sigCode",
+      "difficulty": "easy",
+      "prompt": "What does \u201csoln\u201d stand for?",
+      "choices": [
+        "By mouth",
+        "Solution",
+        "Against the cheek",
+        "Topical"
+      ],
+      "answer": "Solution"
+    },
+    {
+      "id": "sig-030",
+      "category": "sigCode",
+      "difficulty": "easy",
+      "prompt": "What does \u201csupp\u201d stand for?",
+      "choices": [
+        "Every 3 hours",
+        "Suppository",
+        "Subcutaneous",
+        "At bedtime"
+      ],
+      "answer": "Suppository"
+    },
+    {
+      "id": "sig-031",
+      "category": "sigCode",
+      "difficulty": "easy",
+      "prompt": "What does \u201cneb\u201d stand for?",
+      "choices": [
+        "Inhalation",
+        "Extended-release",
+        "Against the cheek",
+        "Nebulizer"
+      ],
+      "answer": "Nebulizer"
+    },
+    {
+      "id": "sig-032",
+      "category": "sigCode",
+      "difficulty": "easy",
+      "prompt": "What does \u201cinh\u201d stand for?",
+      "choices": [
+        "Inhalation",
+        "Balm",
+        "Every 2 hours",
+        "Elixir"
+      ],
+      "answer": "Inhalation"
+    },
+    {
+      "id": "sig-033",
+      "category": "sigCode",
+      "difficulty": "easy",
+      "prompt": "What does \u201cnasal\u201d stand for?",
+      "choices": [
+        "Nasal",
+        "Suppository",
+        "Before meals",
+        "Controlled-release"
+      ],
+      "answer": "Nasal"
+    },
+    {
+      "id": "sig-034",
+      "category": "sigCode",
+      "difficulty": "easy",
+      "prompt": "What does \u201cophth\u201d stand for?",
+      "choices": [
+        "At bedtime",
+        "Four times daily",
+        "Intramuscular",
+        "Ophthalmic"
+      ],
+      "answer": "Ophthalmic"
+    },
+    {
+      "id": "sig-035",
+      "category": "sigCode",
+      "difficulty": "easy",
+      "prompt": "What does \u201cotic\u201d stand for?",
+      "choices": [
+        "Every bedtime",
+        "Orally disintegrating tablet",
+        "Otic",
+        "Controlled-release"
+      ],
+      "answer": "Otic"
+    },
+    {
+      "id": "sig-036",
+      "category": "sigCode",
+      "difficulty": "easy",
+      "prompt": "What does \u201crect\u201d stand for?",
+      "choices": [
+        "Every other day",
+        "Ophthalmic",
+        "Lotion",
+        "Rectal"
+      ],
+      "answer": "Rectal"
+    },
+    {
+      "id": "sig-037",
+      "category": "sigCode",
+      "difficulty": "easy",
+      "prompt": "What does \u201csubcut\u201d stand for?",
+      "choices": [
+        "Subcutaneous",
+        "Rectal",
+        "Capsule",
+        "Extended-release"
+      ],
+      "answer": "Subcutaneous"
+    },
+    {
+      "id": "sig-038",
+      "category": "sigCode",
+      "difficulty": "easy",
+      "prompt": "What does \u201ctransdermal\u201d stand for?",
+      "choices": [
+        "As needed",
+        "Lotion",
+        "Transdermal",
+        "Extended-release"
+      ],
+      "answer": "Transdermal"
+    },
+    {
+      "id": "sig-039",
+      "category": "sigCode",
+      "difficulty": "easy",
+      "prompt": "What does \u201cerd\u201d stand for?",
+      "choices": [
+        "Suspension",
+        "Extended-release",
+        "As needed",
+        "Every 3 hours"
+      ],
+      "answer": "Extended-release"
+    },
+    {
+      "id": "sig-040",
+      "category": "sigCode",
+      "difficulty": "easy",
+      "prompt": "What does \u201csr\u201d stand for?",
+      "choices": [
+        "At bedtime",
+        "Every bedtime",
+        "Sustained-release",
+        "Controlled-release"
+      ],
+      "answer": "Sustained-release"
+    },
+    {
+      "id": "sig-041",
+      "category": "sigCode",
+      "difficulty": "easy",
+      "prompt": "What does \u201ccr\u201d stand for?",
+      "choices": [
+        "Controlled-release",
+        "Extended-release",
+        "Transdermal",
+        "Four times daily"
+      ],
+      "answer": "Controlled-release"
+    },
+    {
+      "id": "sig-042",
+      "category": "sigCode",
+      "difficulty": "easy",
+      "prompt": "What does \u201cxr\u201d stand for?",
+      "choices": [
+        "Intravenous",
+        "Twice daily",
+        "Extended-release",
+        "Intramuscular"
+      ],
+      "answer": "Extended-release"
+    },
+    {
+      "id": "sig-043",
+      "category": "sigCode",
+      "difficulty": "easy",
+      "prompt": "What does \u201cer\u201d stand for?",
+      "choices": [
+        "Before meals",
+        "Extended-release",
+        "Every bedtime",
+        "Three times daily"
+      ],
+      "answer": "Extended-release"
+    },
+    {
+      "id": "sig-044",
+      "category": "sigCode",
+      "difficulty": "easy",
+      "prompt": "What does \u201cec\u201d stand for?",
+      "choices": [
+        "Intravenous",
+        "Topical",
+        "Every 4 hours",
+        "Enteric-coated"
+      ],
+      "answer": "Enteric-coated"
+    },
+    {
+      "id": "sig-045",
+      "category": "sigCode",
+      "difficulty": "easy",
+      "prompt": "What does \u201codt\u201d stand for?",
+      "choices": [
+        "Rectal",
+        "Orally disintegrating tablet",
+        "Ophthalmic",
+        "Before meals"
+      ],
+      "answer": "Orally disintegrating tablet"
+    },
+    {
+      "id": "sig-046",
+      "category": "sigCode",
+      "difficulty": "easy",
+      "prompt": "What does \u201clg\u201d stand for?",
+      "choices": [
+        "Suspension",
+        "Lotion",
+        "Extended-release",
+        "Before meals"
+      ],
+      "answer": "Lotion"
+    },
+    {
+      "id": "sig-047",
+      "category": "sigCode",
+      "difficulty": "easy",
+      "prompt": "What does \u201ccrm\u201d stand for?",
+      "choices": [
+        "Intramuscular",
+        "Solution",
+        "Cream",
+        "As needed"
+      ],
+      "answer": "Cream"
+    },
+    {
+      "id": "sig-048",
+      "category": "sigCode",
+      "difficulty": "easy",
+      "prompt": "What does \u201cbalm\u201d stand for?",
+      "choices": [
+        "Twice daily",
+        "Balm",
+        "Sustained-release",
+        "Inhalation"
+      ],
+      "answer": "Balm"
+    },
+    {
+      "id": "ptcb-001",
+      "category": "ptcb",
+      "difficulty": "easy",
+      "prompt": "What is the generic name for Zocor?",
+      "choices": [
+        "Simvastatin",
+        "Atorvastatin",
+        "Lisinopril",
+        "Metformin"
+      ],
+      "answer": "Simvastatin"
+    },
+    {
+      "id": "ptcb-002",
+      "category": "ptcb",
+      "difficulty": "easy",
+      "prompt": "What is the brand name for Omeprazole?",
+      "choices": [
+        "Prilosec",
+        "Zocor",
+        "Lipitor",
+        "Norvasc"
+      ],
+      "answer": "Prilosec"
+    },
+    {
+      "id": "ptcb-003",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following is a beta blocker?",
+      "choices": [
+        "Metoprolol",
+        "Simvastatin",
+        "Amlodipine",
+        "Omeprazole"
+      ],
+      "answer": "Metoprolol"
+    },
+    {
+      "id": "ptcb-004",
+      "category": "ptcb",
+      "difficulty": "easy",
+      "prompt": "What is the generic name for Norvasc?",
+      "choices": [
+        "Amlodipine",
+        "Simvastatin",
+        "Metformin",
+        "Lisinopril"
+      ],
+      "answer": "Amlodipine"
+    },
+    {
+      "id": "ptcb-005",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following is an ACE inhibitor?",
+      "choices": [
+        "Lisinopril",
+        "Simvastatin",
+        "Amlodipine",
+        "Metoprolol"
+      ],
+      "answer": "Lisinopril"
+    },
+    {
+      "id": "ptcb-006",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "What is the brand name for Atorvastatin?",
+      "choices": [
+        "Lipitor",
+        "Zocor",
+        "Prilosec",
+        "Norvasc"
+      ],
+      "answer": "Lipitor"
+    },
+    {
+      "id": "ptcb-007",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following is a calcium channel blocker?",
+      "choices": [
+        "Amlodipine",
+        "Lisinopril",
+        "Metoprolol",
+        "Simvastatin"
+      ],
+      "answer": "Amlodipine"
+    },
+    {
+      "id": "ptcb-008",
+      "category": "ptcb",
+      "difficulty": "easy",
+      "prompt": "What is the generic name for Glucophage?",
+      "choices": [
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin",
+        "Lisinopril"
+      ],
+      "answer": "Metformin"
+    },
+    {
+      "id": "ptcb-009",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following is a proton pump inhibitor?",
+      "choices": [
+        "Omeprazole",
+        "Metoprolol",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Omeprazole"
+    },
+    {
+      "id": "ptcb-010",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "What is the brand name for Simvastatin?",
+      "choices": [
+        "Zocor",
+        "Lipitor",
+        "Norvasc",
+        "Prilosec"
+      ],
+      "answer": "Zocor"
+    }
+    
+  ]
