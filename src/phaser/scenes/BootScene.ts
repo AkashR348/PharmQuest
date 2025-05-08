@@ -54,6 +54,8 @@ this.load.spritesheet('dice_defeat', 'assets/sprites/dosagedice/defeat@2x.png', 
   this.load.image('player_defeat1', 'assets/sprites/player/player_defeat1.png');
   this.load.image('player_defeat2', 'assets/sprites/player/player_defeat2.png');
   this.load.image('player_defeat3', 'assets/sprites/player/player_defeat3.png');
+
+  this.load.image('home_bg', 'assets/sprites/homepage.png');
   }
 
   create() {

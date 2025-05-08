@@ -207,6 +207,20 @@ export default class BattleScene extends Phaser.Scene {
         0.85
       ).setOrigin(0.5).setStrokeStyle(2, 0xffffff, 0.3);
 
+      // Make the box interactive
+      choiceBg.setInteractive({ useHandCursor: true })
+        .on('pointerover', () => {
+          choiceBg.setFillStyle(0x5555aa, 1);
+          txt.setStyle({ color: '#ffff88' });
+          txt.setScale(1.08);
+        })
+        .on('pointerout', () => {
+          choiceBg.setFillStyle(0x333355, 0.85);
+          txt.setStyle({ color: '#fff' });
+          txt.setScale(1);
+        })
+        .on('pointerup', () => this.submitAnswer(choice));
+
       this.choiceBgs.push(choiceBg);
 
       // Choice text
@@ -222,6 +236,7 @@ export default class BattleScene extends Phaser.Scene {
         }
       )
       .setOrigin(0.5)
+      .setDepth(1) // Ensure text is above the box
       .setInteractive({ useHandCursor: true })
       .on('pointerover', () => {
         choiceBg.setFillStyle(0x5555aa, 1);
@@ -237,9 +252,6 @@ export default class BattleScene extends Phaser.Scene {
 
       this.choiceTexts.push(txt);
     });
-
-    this.choiceBgs.forEach(bg => bg.destroy());
-    this.choiceBgs = [];
   }
 
   /**
