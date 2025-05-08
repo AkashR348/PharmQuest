@@ -2728,6 +2728,1162 @@
         "Prilosec"
       ],
       "answer": "Zocor"
+    },
+    {
+      "id": "ptcb-110",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following side effects is most associated with ACE inhibitors?",
+      "choices": [
+        "Persistent, dry cough",
+        "Hypoglycemia",
+        "Low potassium",
+        "Elevated blood pressure"
+      ],
+      "answer": "Persistent, dry cough"
+    },
+    {
+      "id": "ptcb-111",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Muscle pain and myopathies are side effects most associated with which of these drug classes?",
+      "choices": [
+        "Statins",
+        "Beta-blockers",
+        "Calcium channel blockers",
+        "Nitrates"
+      ],
+      "answer": "Statins"
+    },
+    {
+      "id": "ptcb-112",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which antibacterial drug class is associated with tooth discoloration, enamel hypoplasia, and photosensitivity?",
+      "choices": [
+        "Tetracyclines",
+        "Macrolides",
+        "Penicillins",
+        "Fluoroquinolones"
+      ],
+      "answer": "Tetracyclines"
+    },
+    {
+      "id": "ptcb-113",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of these drugs is most likely to cause inflammation and rupture of muscle tendons?",
+      "choices": [
+        "Ciprofloxacin",
+        "Phenytoin",
+        "Sildenafil",
+        "Lansoprazole"
+      ],
+      "answer": "Ciprofloxacin"
+    },
+    {
+      "id": "ptcb-114",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "All these diuretics can cause hypokalemia, except which?",
+      "choices": [
+        "Amiloride",
+        "Furosemide",
+        "Hydrochlorothiazide",
+        "Bumetanide"
+      ],
+      "answer": "Amiloride"
+    },
+    {
+      "id": "ptcb-115",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Metallic taste, lactic acidosis, and vitamin B12 deficiency are side effects most associated with which of these drugs?",
+      "choices": [
+        "Metformin",
+        "Metronidazole",
+        "Methotrexate",
+        "Methimazole"
+      ],
+      "answer": "Metformin"
+    },
+    {
+      "id": "ptcb-116",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following drugs can cause esophagitis, hypophosphatemia, and osteonecrosis of the jaw?",
+      "choices": [
+        "Alendronic acid",
+        "Streptokinase",
+        "Finasteride",
+        "Salmeterol"
+      ],
+      "answer": "Alendronic acid"
+    },
+    {
+      "id": "ptcb-117",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Fatigue, cold extremities, headache, nightmares, and impotence (in men) are most likely to occur with which of these drug classes?",
+      "choices": [
+        "Beta-blockers",
+        "Alpha-blockers",
+        "Calcium channel blockers",
+        "Beta-2 agonists"
+      ],
+      "answer": "Beta-blockers"
+    },
+    {
+      "id": "ptcb-118",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "How is 34 written in Roman numerals?",
+      "choices": [
+        "XXXIV",
+        "XXXIIII",
+        "XXLIV",
+        "XXXIL"
+      ],
+      "answer": "XXXIV"
+    },
+    {
+      "id": "ptcb-119",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "A 30 mL dose of nighttime cough suppressant contains 12.5 mg of doxylamine succinate. How many milligrams of doxylamine succinate are in the entire 354 mL bottle?",
+      "choices": [
+        "147.5",
+        "240",
+        "128.32",
+        "375"
+      ],
+      "answer": "147.5"
+    },
+    {
+      "id": "ptcb-120",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following is a common side effect of opioid analgesics?",
+      "choices": [
+        "Constipation",
+        "Hypertension",
+        "Diarrhea",
+        "Insomnia"
+      ],
+      "answer": "Constipation"
+    },
+    {
+      "id": "ptcb-121",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following is a beta-blocker?",
+      "choices": [
+        "Metoprolol",
+        "Amlodipine",
+        "Simvastatin",
+        "Lisinopril"
+      ],
+      "answer": "Metoprolol"
+    },
+    {
+      "id": "ptcb-122",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following is a calcium channel blocker?",
+      "choices": [
+        "Amlodipine",
+        "Metoprolol",
+        "Simvastatin",
+        "Lisinopril"
+      ],
+      "answer": "Amlodipine"
+    },
+    {
+      "id": "ptcb-123",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following is an ACE inhibitor?",
+      "choices": [
+        "Lisinopril",
+        "Simvastatin",
+        "Amlodipine",
+        "Metoprolol"
+      ],
+      "answer": "Lisinopril"
+    },
+    {
+      "id": "ptcb-124",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following is a statin?",
+      "choices": [
+        "Atorvastatin",
+        "Metoprolol",
+        "Amlodipine",
+        "Lisinopril"
+      ],
+      "answer": "Atorvastatin"
+    },
+    {
+      "id": "ptcb-125",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following is a proton pump inhibitor?",
+      "choices": [
+        "Omeprazole",
+        "Metoprolol",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Omeprazole"
+    },
+    {
+      "id": "ptcb-126",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following is a thiazide diuretic?",
+      "choices": [
+        "Hydrochlorothiazide",
+        "Furosemide",
+        "Amlodipine",
+        "Metoprolol"
+      ],
+      "answer": "Hydrochlorothiazide"
+    },
+    {
+      "id": "ptcb-127",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following is a loop diuretic?",
+      "choices": [
+        "Furosemide",
+        "Hydrochlorothiazide",
+        "Amlodipine",
+        "Metoprolol"
+      ],
+      "answer": "Furosemide"
+    },
+    {
+      "id": "ptcb-128",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following is a benzodiazepine?",
+      "choices": [
+        "Lorazepam",
+        "Sertraline",
+        "Amlodipine",
+        "Metoprolol"
+      ],
+      "answer": "Lorazepam"
+    },
+    {
+      "id": "ptcb-129",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following is a selective serotonin reuptake inhibitor (SSRI)?",
+      "choices": [
+        "Sertraline",
+        "Amlodipine",
+        "Metoprolol",
+        "Simvastatin"
+      ],
+      "answer": "Sertraline"
+    },
+    {
+      "id": "ptcb-130",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following is an antiplatelet medication?",
+      "choices": [
+        "Clopidogrel",
+        "Warfarin",
+        "Simvastatin",
+        "Amlodipine"
+      ],
+      "answer": "Clopidogrel"
+    },
+    {
+      "id": "ptcb-131",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following is an opioid analgesic?",
+      "choices": [
+        "Tramadol",
+        "Ibuprofen",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Tramadol"
+    },
+    {
+      "id": "ptcb-132",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following is a leukotriene receptor antagonist?",
+      "choices": [
+        "Montelukast",
+        "Amlodipine",
+        "Metoprolol",
+        "Simvastatin"
+      ],
+      "answer": "Montelukast"
+    },
+    {
+      "id": "ptcb-133",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following is a macrolide antibiotic?",
+      "choices": [
+        "Azithromycin",
+        "Amoxicillin",
+        "Ciprofloxacin",
+        "Cephalexin"
+      ],
+      "answer": "Azithromycin"
+    },
+    {
+      "id": "ptcb-134",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following is a cephalosporin antibiotic?",
+      "choices": [
+        "Cephalexin",
+        "Ciprofloxacin",
+        "Amoxicillin",
+        "Azithromycin"
+      ],
+      "answer": "Cephalexin"
+    },
+    {
+      "id": "ptcb-135",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following is a fluoroquinolone antibiotic?",
+      "choices": [
+        "Ciprofloxacin",
+        "Cephalexin",
+        "Amoxicillin",
+        "Azithromycin"
+      ],
+      "answer": "Ciprofloxacin"
+    },
+    {
+      "id": "ptcb-136",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following is a penicillin antibiotic?",
+      "choices": [
+        "Amoxicillin",
+        "Ciprofloxacin",
+        "Cephalexin",
+        "Azithromycin"
+      ],
+      "answer": "Amoxicillin"
+    },
+    {
+      "id": "ptcb-137",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following is a common side effect of metformin?",
+      "choices": [
+        "Lactic acidosis",
+        "Hypertension",
+        "Constipation",
+        "Insomnia"
+      ],
+      "answer": "Lactic acidosis"
+    },
+    {
+      "id": "ptcb-138",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following is a common side effect of statins?",
+      "choices": [
+        "Muscle pain",
+        "Hypertension",
+        "Diarrhea",
+        "Insomnia"
+      ],
+      "answer": "Muscle pain"
+    },
+    {
+      "id": "ptcb-139",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following is a common side effect of beta-blockers?",
+      "choices": [
+        "Fatigue",
+        "Constipation",
+        "Diarrhea",
+        "Insomnia"
+      ],
+      "answer": "Fatigue"
+    },
+    {
+      "id": "ptcb-140",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following is a common side effect of calcium channel blockers?",
+      "choices": [
+        "Edema",
+        "Constipation",
+        "Diarrhea",
+        "Insomnia"
+      ],
+      "answer": "Edema"
+    },
+    {
+      "id": "ptcb-141",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following is a common side effect of ACE inhibitors?",
+      "choices": [
+        "Cough",
+        "Constipation",
+        "Diarrhea",
+        "Insomnia"
+      ],
+      "answer": "Cough"
+    },
+    {
+      "id": "ptcb-142",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following is a common side effect of diuretics?",
+      "choices": [
+        "Hypokalemia",
+        "Constipation",
+        "Diarrhea",
+        "Insomnia"
+      ],
+      "answer": "Hypokalemia"
+    },
+    {
+      "id": "ptcb-143",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following is a common side effect of SSRIs?",
+      "choices": [
+        "Sexual dysfunction",
+        "Constipation",
+        "Diarrhea",
+        "Insomnia"
+      ],
+      "answer": "Sexual dysfunction"
+    },
+    {
+      "id": "ptcb-144",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following is a common side effect of benzodiazepines?",
+      "choices": [
+        "Drowsiness",
+        "Constipation",
+        "Diarrhea",
+        "Insomnia"
+      ],
+      "answer": "Drowsiness"
+    },
+    {
+      "id": "ptcb-145",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following is a common side effect of opioids?",
+      "choices": [
+        "Respiratory depression",
+        "Constipation",
+        "Diarrhea",
+        "Insomnia"
+      ],
+      "answer": "Respiratory depression"
+    },
+    {
+      "id": "ptcb-146",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which DEA schedule contains substances with the least potential for abuse?",
+      "choices": [
+        "Schedule V",
+        "Schedule I",
+        "Schedule II",
+        "Schedule III"
+      ],
+      "answer": "Schedule V"
+    },
+    {
+      "id": "ptcb-147",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which DEA schedule contains substances with the highest potential for abuse and no accepted medical use?",
+      "choices": [
+        "Schedule I",
+        "Schedule II",
+        "Schedule III",
+        "Schedule IV"
+      ],
+      "answer": "Schedule I"
+    },
+    {
+      "id": "ptcb-148",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "How many milligrams are in 1 gram?",
+      "choices": [
+        "1000",
+        "100",
+        "10",
+        "10000"
+      ],
+      "answer": "1000"
+    },
+    {
+      "id": "ptcb-149",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "How many grams are in 1 kilogram?",
+      "choices": [
+        "1000",
+        "100",
+        "10",
+        "10000"
+      ],
+      "answer": "1000"
+    },
+    {
+      "id": "ptcb-150",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "How many milliliters are in 1 liter?",
+      "choices": [
+        "1000",
+        "100",
+        "10",
+        "10000"
+      ],
+      "answer": "1000"
+    },
+    {
+      "id": "ptcb-151",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "How many ounces are in 1 cup?",
+      "choices": [
+        "8",
+        "4",
+        "16",
+        "12"
+      ],
+      "answer": "8"
+    },
+    {
+      "id": "ptcb-152",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "How many cups are in 1 quart?",
+      "choices": [
+        "4",
+        "2",
+        "8",
+        "16"
+      ],
+      "answer": "4"
+    },
+    {
+      "id": "ptcb-153",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "How many quarts are in 1 gallon?",
+      "choices": [
+        "4",
+        "2",
+        "8",
+        "16"
+      ],
+      "answer": "4"
+    },
+    {
+      "id": "ptcb-154",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "How many pints are in 1 quart?",
+      "choices": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "answer": "2"
+    },
+    {
+      "id": "ptcb-155",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "How many tablespoons are in 1 ounce?",
+      "choices": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "answer": "2"
+    },
+    {
+      "id": "ptcb-156",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "How many teaspoons are in 1 tablespoon?",
+      "choices": [
+        "3",
+        "2",
+        "4",
+        "6"
+      ],
+      "answer": "3"
+    },
+    {
+      "id": "ptcb-157",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "How many milliliters are in 1 teaspoon?",
+      "choices": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "answer": "5"
+    },
+    {
+      "id": "ptcb-158",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "How many milliliters are in 1 tablespoon?",
+      "choices": [
+        "15",
+        "5",
+        "10",
+        "20"
+      ],
+      "answer": "15"
+    },
+    {
+      "id": "ptcb-159",
+      "category": "ptcb",
+      "difficulty": "hard",
+      "prompt": "Which of the following drugs is most likely to cause Stevens-Johnson syndrome?",
+      "choices": [
+        "Lamotrigine",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Lamotrigine"
+    },
+    {
+      "id": "ptcb-160",
+      "category": "ptcb",
+      "difficulty": "hard",
+      "prompt": "Which of the following drugs is most likely to cause QT prolongation?",
+      "choices": [
+        "Citalopram",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Citalopram"
+    },
+    {
+      "id": "ptcb-161",
+      "category": "ptcb",
+      "difficulty": "hard",
+      "prompt": "Which of the following drugs is most likely to cause serotonin syndrome?",
+      "choices": [
+        "Linezolid",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Linezolid"
+    },
+    {
+      "id": "ptcb-162",
+      "category": "ptcb",
+      "difficulty": "hard",
+      "prompt": "Which of the following drugs is most likely to cause neuroleptic malignant syndrome?",
+      "choices": [
+        "Haloperidol",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Haloperidol"
+    },
+    {
+      "id": "ptcb-163",
+      "category": "ptcb",
+      "difficulty": "hard",
+      "prompt": "Which of the following drugs is most likely to cause extrapyramidal symptoms?",
+      "choices": [
+        "Metoclopramide",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Metoclopramide"
+    },
+    {
+      "id": "ptcb-164",
+      "category": "ptcb",
+      "difficulty": "hard",
+      "prompt": "Which of the following drugs is most likely to cause tardive dyskinesia?",
+      "choices": [
+        "Risperidone",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Risperidone"
+    },
+    {
+      "id": "ptcb-165",
+      "category": "ptcb",
+      "difficulty": "hard",
+      "prompt": "Which of the following drugs is most likely to cause pseudomembranous colitis?",
+      "choices": [
+        "Clindamycin",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Clindamycin"
+    },
+    {
+      "id": "ptcb-166",
+      "category": "ptcb",
+      "difficulty": "hard",
+      "prompt": "Which of the following drugs is most likely to cause ototoxicity?",
+      "choices": [
+        "Gentamicin",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Gentamicin"
+    },
+    {
+      "id": "ptcb-167",
+      "category": "ptcb",
+      "difficulty": "hard",
+      "prompt": "Which of the following drugs is most likely to cause nephrotoxicity?",
+      "choices": [
+        "Vancomycin",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Vancomycin"
+    },
+    {
+      "id": "ptcb-168",
+      "category": "ptcb",
+      "difficulty": "hard",
+      "prompt": "Which of the following drugs is most likely to cause hepatotoxicity?",
+      "choices": [
+        "Isoniazid",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Isoniazid"
+    },
+    {
+      "id": "ptcb-169",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following drugs is most likely to cause photosensitivity?",
+      "choices": [
+        "Doxycycline",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Doxycycline"
+    },
+    {
+      "id": "ptcb-170",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following drugs is most likely to cause gingival hyperplasia?",
+      "choices": [
+        "Phenytoin",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Phenytoin"
+    },
+    {
+      "id": "ptcb-171",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following drugs is most likely to cause gynecomastia?",
+      "choices": [
+        "Spironolactone",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Spironolactone"
+    },
+    {
+      "id": "ptcb-172",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following drugs is most likely to cause hyperkalemia?",
+      "choices": [
+        "Eplerenone",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Eplerenone"
+    },
+    {
+      "id": "ptcb-173",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following drugs is most likely to cause hypokalemia?",
+      "choices": [
+        "Furosemide",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Furosemide"
+    },
+    {
+      "id": "ptcb-174",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following drugs is most likely to cause hyperglycemia?",
+      "choices": [
+        "Prednisone",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Prednisone"
+    },
+    {
+      "id": "ptcb-175",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following drugs is most likely to cause hypoglycemia?",
+      "choices": [
+        "Glipizide",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Glipizide"
+    },
+    {
+      "id": "ptcb-176",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following drugs is most likely to cause hypercalcemia?",
+      "choices": [
+        "Calcitriol",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Calcitriol"
+    },
+    {
+      "id": "ptcb-177",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following drugs is most likely to cause hypocalcemia?",
+      "choices": [
+        "Furosemide",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Furosemide"
+    },
+    {
+      "id": "ptcb-178",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following drugs is most likely to cause hypernatremia?",
+      "choices": [
+        "Desmopressin",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Desmopressin"
+    },
+    {
+      "id": "ptcb-179",
+      "category": "ptcb",
+      "difficulty": "hard",
+      "prompt": "Which of the following drugs is most likely to cause rhabdomyolysis?",
+      "choices": [
+        "Simvastatin",
+        "Metformin",
+        "Amlodipine",
+        "Lisinopril"
+      ],
+      "answer": "Simvastatin"
+    },
+    {
+      "id": "ptcb-180",
+      "category": "ptcb",
+      "difficulty": "hard",
+      "prompt": "Which of the following drugs is most likely to cause agranulocytosis?",
+      "choices": [
+        "Clozapine",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Clozapine"
+    },
+    {
+      "id": "ptcb-181",
+      "category": "ptcb",
+      "difficulty": "hard",
+      "prompt": "Which of the following drugs is most likely to cause aplastic anemia?",
+      "choices": [
+        "Chloramphenicol",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Chloramphenicol"
+    },
+    {
+      "id": "ptcb-182",
+      "category": "ptcb",
+      "difficulty": "hard",
+      "prompt": "Which of the following drugs is most likely to cause toxic epidermal necrolysis?",
+      "choices": [
+        "Carbamazepine",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Carbamazepine"
+    },
+    {
+      "id": "ptcb-183",
+      "category": "ptcb",
+      "difficulty": "hard",
+      "prompt": "Which of the following drugs is most likely to cause acute interstitial nephritis?",
+      "choices": [
+        "Methicillin",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Methicillin"
+    },
+    {
+      "id": "ptcb-184",
+      "category": "ptcb",
+      "difficulty": "hard",
+      "prompt": "Which of the following drugs is most likely to cause acute liver failure?",
+      "choices": [
+        "Acetaminophen",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Acetaminophen"
+    },
+    {
+      "id": "ptcb-185",
+      "category": "ptcb",
+      "difficulty": "hard",
+      "prompt": "Which of the following drugs is most likely to cause acute pancreatitis?",
+      "choices": [
+        "Didanosine",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Didanosine"
+    },
+    {
+      "id": "ptcb-186",
+      "category": "ptcb",
+      "difficulty": "hard",
+      "prompt": "Which of the following drugs is most likely to cause acute respiratory distress syndrome?",
+      "choices": [
+        "Amiodarone",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Amiodarone"
+    },
+    {
+      "id": "ptcb-187",
+      "category": "ptcb",
+      "difficulty": "hard",
+      "prompt": "Which of the following drugs is most likely to cause acute tubular necrosis?",
+      "choices": [
+        "Amphotericin B",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Amphotericin B"
+    },
+    {
+      "id": "ptcb-188",
+      "category": "ptcb",
+      "difficulty": "hard",
+      "prompt": "Which of the following drugs is most likely to cause acute vestibular syndrome?",
+      "choices": [
+        "Streptomycin",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Streptomycin"
+    },
+    {
+      "id": "ptcb-189",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following drugs is most likely to cause alopecia?",
+      "choices": [
+        "Methotrexate",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Methotrexate"
+    },
+    {
+      "id": "ptcb-190",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following drugs is most likely to cause anemia?",
+      "choices": [
+        "Methotrexate",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Methotrexate"
+    },
+    {
+      "id": "ptcb-191",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following drugs is most likely to cause angioedema?",
+      "choices": [
+        "Lisinopril",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Lisinopril"
+    },
+    {
+      "id": "ptcb-192",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following drugs is most likely to cause bradycardia?",
+      "choices": [
+        "Propranolol",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Propranolol"
+    },
+    {
+      "id": "ptcb-193",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following drugs is most likely to cause bronchospasm?",
+      "choices": [
+        "Aspirin",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Aspirin"
+    },
+    {
+      "id": "ptcb-194",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following drugs is most likely to cause confusion?",
+      "choices": [
+        "Diphenhydramine",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Diphenhydramine"
+    },
+    {
+      "id": "ptcb-195",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following drugs is most likely to cause depression?",
+      "choices": [
+        "Interferon",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Interferon"
+    },
+    {
+      "id": "ptcb-196",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following drugs is most likely to cause diarrhea?",
+      "choices": [
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin",
+        "Lisinopril"
+      ],
+      "answer": "Metformin"
+    },
+    {
+      "id": "ptcb-197",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following drugs is most likely to cause dizziness?",
+      "choices": [
+        "Amlodipine",
+        "Metformin",
+        "Simvastatin",
+        "Lisinopril"
+      ],
+      "answer": "Amlodipine"
+    },
+    {
+      "id": "ptcb-198",
+      "category": "ptcb",
+      "difficulty": "medium",
+      "prompt": "Which of the following drugs is most likely to cause dry mouth?",
+      "choices": [
+        "Amitriptyline",
+        "Metformin",
+        "Amlodipine",
+        "Simvastatin"
+      ],
+      "answer": "Amitriptyline"
     }
-    
   ]
