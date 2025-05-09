@@ -168,22 +168,27 @@ export default class BattleScene extends Phaser.Scene {
     // Question background box
     this.questionBg = this.add.rectangle(
       this.scale.width / 2,
-      this.scale.height * 0.13, // 13% from the top
-      this.scale.width * 0.85,  // 85% of the width
-      this.scale.height * 0.10, // 10% of the height
+      this.scale.height * 0.13,
+      this.scale.width * 0.85,
+      this.scale.height * 0.16, // Increased height
       0x222244,
       0.85
     ).setOrigin(0.5);
 
     // Question text
     const questionY = this.scale.height * 0.13;
+    const isLong = this.currentQuestion.prompt.length > 60;
+    const fontSize = isLong
+      ? Math.round(this.scale.height * 0.032)
+      : Math.round(this.scale.height * 0.04);
+
     this.promptText = this.add.text(
       this.scale.width / 2,
       questionY,
       this.currentQuestion.prompt,
       {
         fontFamily: 'Arial Black, Arial, sans-serif',
-        fontSize: `${Math.round(this.scale.height * 0.04)}px`, // 4% of height
+        fontSize: `${fontSize}px`,
         color: '#fff',
         fontStyle: 'bold',
         align: 'center',
