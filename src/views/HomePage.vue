@@ -2,14 +2,16 @@
 <template>
   <div>
     <div class="homepage-bg"></div>
+    <div class="start-button-container">
+      <img src="/assets/sprites/startButton.png" alt="Start Button" class="start-button" @click="startGame" />
+    </div>
     <ion-page>
       <ion-content :fullscreen="true">
-        <div
-          class="play-hitbox"
-          @click="startBattle"
-          tabindex="0"
-          aria-label="Start PharmQuest"
-        ></div>
+        <ion-header collapse="condense">
+          <ion-toolbar>
+            <ion-title size="large">PharmQuest</ion-title>
+          </ion-toolbar>
+        </ion-header>
       </ion-content>
     </ion-page>
   </div>
@@ -17,20 +19,17 @@
 
 <script lang="ts">
 import { defineComponent } from 'vue';
+import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar } from '@ionic/vue';
 import { useRouter } from 'vue-router';
-import {
-  IonPage,
-  IonContent
-} from '@ionic/vue';
-
-type Location = 'hospital' | 'pharm';
-type TimeOfDay = 'day' | 'night';
 
 export default defineComponent({
   name: 'HomePage',
   components: {
-    IonPage,
     IonContent,
+    IonHeader,
+    IonPage,
+    IonTitle,
+    IonToolbar,
   },
   setup() {
     const router = useRouter();
@@ -54,7 +53,11 @@ export default defineComponent({
       });
     }
 
-    return { startBattle };
+    const startGame = () => {
+      router.push('/game');
+    };
+
+    return { startBattle, startGame };
   }
 });
 </script>
@@ -70,30 +73,22 @@ export default defineComponent({
   background-size: cover;
   background-position: center 68%;
   background-repeat: no-repeat;
+  background-color: #003149;
+  overflow: hidden;
 }
-.play-hitbox {
-  position: absolute;
-  left: 49.5%;
-  top: 83%;
-  width: 295px;
-  height: 101px;
-  transform: translate(-50%, 0);
-  cursor: pointer;
-  z-index: 3;
 
-}
 .start-button-container {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  position: fixed;
+  top: 91%;
+  left: 49.5%;
+  transform: translate(-50%, -50%);
   width: 100vw;
-  position: absolute;
-  top: 0;
-  left: 0;
+  height: 100vh;
   z-index: 2;
-  pointer-events: none;
-  display: none; /* Hide the old button container */
+  pointer-events: auto;
 }
 .start-button-container ion-button {
   pointer-events: auto;
@@ -107,21 +102,25 @@ ion-content {
     background-image: url('/assets/sprites/homepageMobile.png');
     background-position: center ;
     background-size: contain;
-    background-color: #073D44;
+    background-color: #064766;
+    overflow: hidden;
+    
   }
-  .play-hitbox {
-  position: absolute;
-  left: 49.5%;
-  top: 75%;
-  width: 22vh;
-  height: 8vh;
-  transform: translate(-50%, 0);
-  cursor: pointer;
-  z-index: 3;
-  background: rgba(255,0,0,0.2); /* For debugging, remove when done */
 
-
+ 
+  .start-button-container {
+    align-items: flex-end;
+    padding-bottom: 18vh;
+    height: 100vh;
+  }
 }
+.start-button {
+  cursor: pointer;
+  transition: transform 0.2s;
+  width: 25%;
+}
+.start-button:hover {
+  transform: scale(1.05);
 }
 </style>
   

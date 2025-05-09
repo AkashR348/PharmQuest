@@ -31,18 +31,8 @@ this.load.spritesheet('dice_defeat', 'assets/sprites/dosagedice/defeat@2x.png', 
         this.load.image('bg_pharm_night',    'assets/sprites/pharm_night.png');
         this.load.image('bg_pharm_day',      'assets/sprites/pharm_day.png');
 
-    // Placeholder assets
-    // this.load.image('bg_battle', 'assets/bg_battle.png');
-    // this.load.image('player_idle_1', 'assets/sprites/player/player_idle-1.png');
-    // this.load.image('enemy_idle_1', 'assets/sprites/enemy_idle_1.png');
-    // this.load.image('icon_drugNames', 'assets/sprites/icon_drugNames.png');
-    // this.load.image('icon_dosageCalc', 'assets/sprites/icon_dosageCalc.png');
-    // this.load.image('icon_lawSafety', 'assets/sprites/icon_lawSafety.png');
-    // this.load.image('icon_sigCode', 'assets/sprites/icon_sigCode.png');
 
-    // TODO: load your full sprite atlases when ready:
-    // this.load.spritesheet('player', 'assets/sprites/player.png', { frameWidth: 32, frameHeight: 48 });
-    // this.load.atlas('enemies', 'assets/sprites/enemies.png', 'assets/sprites/enemies.json');
+
 
     this.load.image('player_attack0', 'assets/sprites/player/player_attack0.png');
     this.load.image('player_attack1', 'assets/sprites/player/player_attack1.png');
@@ -56,6 +46,7 @@ this.load.spritesheet('dice_defeat', 'assets/sprites/dosagedice/defeat@2x.png', 
   this.load.image('player_defeat3', 'assets/sprites/player/player_defeat3.png');
 
   this.load.image('home_bg', 'assets/sprites/homepage.png');
+  this.load.image('start_button', 'assets/sprites/startButton.png');
   }
 
   create() {
