@@ -115,7 +115,7 @@ export default class BattleScene extends Phaser.Scene {
     }
     // Choices
     const startY = height * 0.25;
-    const gapY = height * 0.07;
+    const gapY = height * 0.11;
     this.choiceTexts.forEach((txt, i) => {
       txt.x = width / 2;
       txt.y = startY + i * gapY;
@@ -165,27 +165,50 @@ export default class BattleScene extends Phaser.Scene {
     // choose random question
     this.currentQuestion = Phaser.Utils.Array.GetRandom(this.questions);
 
+    // Determine if the question is long
+    const prompt = this.currentQuestion.prompt;
+
+    const isVeryLong = prompt.length > 60 || (prompt.match(/\n/g) || []).length > 2;
+    const isLong = prompt.length > 40 || (prompt.match(/\n/g) || []).length > 1;
+
+    let boxHeight = this.scale.height * 0.10;
+    let fontSize = Math.round(this.scale.height * 0.04);
+
+    if (isVeryLong) {
+     boxHeight = this.scale.height * 0.15   // Taller box for long questions
+     fontSize = Math.round(this.scale.height * 0.035) // Smaller font for long questions
+
+    } else if (isLong) {    
+     boxHeight = this.scale.height * 0.16  
+     fontSize =  Math.round(this.scale.height * 0.032) // Smaller font for long questions
+
+    }
+    else {
+      boxHeight = this.scale.height * 0.10;
+      fontSize = Math.round(this.scale.height * 0.04);
+    }
+
+
+
+   
+
+    
     // Question background box
     this.questionBg = this.add.rectangle(
       this.scale.width / 2,
       this.scale.height * 0.13,
       this.scale.width * 0.85,
-      this.scale.height * 0.16, // Increased height
+      boxHeight,
       0x222244,
       0.85
     ).setOrigin(0.5);
 
     // Question text
     const questionY = this.scale.height * 0.13;
-    const isLong = this.currentQuestion.prompt.length > 60;
-    const fontSize = isLong
-      ? Math.round(this.scale.height * 0.032)
-      : Math.round(this.scale.height * 0.04);
-
     this.promptText = this.add.text(
       this.scale.width / 2,
       questionY,
-      this.currentQuestion.prompt,
+      prompt,
       {
         fontFamily: 'Arial Black, Arial, sans-serif',
         fontSize: `${fontSize}px`,
@@ -200,14 +223,14 @@ export default class BattleScene extends Phaser.Scene {
 
     // Choices
     const startY = this.scale.height * 0.25; // 25% from the top
-    const gapY = this.scale.height * 0.07;   // 7% of height between choices
+    const gapY = this.scale.height * 0.10;   // 7% of height between choices
     this.currentQuestion.choices.forEach((choice: string, i: number) => {
       // Background for each choice
       const choiceBg = this.add.rectangle(
         this.scale.width / 2,
         startY + i * gapY,
         this.scale.width * 0.7,      // 70% of width
-        this.scale.height * 0.07,    // 7% of height
+        this.scale.height * 0.10,    // Increased height for answer box
         0x333355,
         0.85
       ).setOrigin(0.5).setStrokeStyle(2, 0xffffff, 0.3);
@@ -228,6 +251,12 @@ export default class BattleScene extends Phaser.Scene {
 
       this.choiceBgs.push(choiceBg);
 
+      // Dynamically adjust font size for long answers
+      const isLongAnswer = choice.length > 22;
+      const answerFontSize = isLongAnswer
+        ? Math.round(this.scale.height * 0.032)
+        : Math.round(this.scale.height * 0.04);
+
       // Choice text
       const txt = this.add.text(
         this.scale.width / 2,
@@ -235,9 +264,10 @@ export default class BattleScene extends Phaser.Scene {
         choice,
         {
           fontFamily: 'Arial',
-          fontSize: `${Math.round(this.scale.height * 0.035)}px`, // 3.5% of height
+          fontSize: `${answerFontSize}px`,
           color: '#fff',
-          align: 'center'
+          align: 'center',
+          wordWrap: { width: this.scale.width * 0.65 }
         }
       )
       .setOrigin(0.5)
